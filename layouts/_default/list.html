@@ -1,0 +1,39 @@
+{{ define "main" }}
+<div>{{ .Content }}</div>
+<table class="table table-striped table-sm">
+    <thead>
+        <tr>
+            <th>Parlament</th>
+            <th>Web</th>
+            <th>Mastodon</th>
+            <th>Twitter</th>
+            <th>Facebook</th>
+            <th>Instagram</th>
+            <th>YouTube</th>
+            <th>LinkedIn</th>
+            <th>TikTok</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range .Pages }}
+        <tr>
+            <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+            {{ with index .Site.Data .File.ContentBaseName }}
+            <td>{{ with .socialmedia.web }}<a href="{{ . }}">{{ . }}</a>{{ end }}</td>
+            <td>{{ with .socialmedia.mastodon }}<a href="{{ . }}"><i class="fa-brands fa-mastodon"></i></a>{{ end }}
+            </td>
+            <td>{{ with .socialmedia.twitter }}<a href="{{ . }}"><i class="fa-brands fa-twitter"></i></a>{{ end }}</td>
+            <td>{{ with .socialmedia.facebook }}<a href="{{ . }}"><i class="fa-brands fa-facebook"></i></a>{{ end }}
+            </td>
+            <td>{{ with .socialmedia.instagram }}<a href="{{ . }}"><i class="fa-brands fa-instagram"></i></a>{{ end }}
+            </td>
+            <td>{{ with .socialmedia.youtube }}<a href="{{ . }}"><i class="fa-brands fa-youtube"></i></a>{{ end }}</td>
+            <td>{{ with .socialmedia.linkedin }}<a href="{{ . }}"><i class="fa-brands fa-linkedin"></i></a>{{ end }}
+            </td>
+            <td>{{ with .socialmedia.tiktok }}<a href="{{ . }}"><i class="fa-brands fa-tiktok"></i></a>{{ end }}</td>
+            {{ end }}
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+{{ end }}
