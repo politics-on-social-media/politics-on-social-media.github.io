@@ -1,0 +1,10 @@
+baseURL: "https://politics-on-social-media.github.io/"
+languageCode: "de-de"
+title: "politics on social media"
+
+module:
+  mounts:
+    - source: node_modules
+      target: assets/npm
+    - source: assets
+      target: assets
