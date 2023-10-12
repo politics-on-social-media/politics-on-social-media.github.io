@@ -10,8 +10,25 @@
     {{- $fa_brands := resources.Get "npm/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2" -}}
     <!--{{ $fa_brands.RelPermalink }}-->
     <link rel="stylesheet" href="{{ $fontawesome.RelPermalink }}">
+    {{ $github_corner_element := resources.Get "npm/github-corner-element/dist/github-corner-element.es.js" -}}
+    <script type="module" src="{{ $github_corner_element.RelPermalink }}"></script>
 </head>
 
-<body><main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-md-4">{{ block "main" . }}{{ end }}</main></body>
+<body>
+    <github-corner href="https://github.com/politics-on-social-media/politics-on-social-media.github.io"></github-corner>
+    <div class="container">
+        <nav aria-label="breadcrumb" class="navbar border-bottom">
+            <div class="container-fluid">
+                <ol class="breadcrumb">
+                    {{- range .Ancestors.Reverse }}
+                    <li class="breadcrumb-item"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                    {{- end }}
+                    <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+                </ol>
+            </div>
+        </nav>
+    </div>
+    <main role="main" class="container">{{ block "main" . }}{{ end }}</main>
+</body>
 
 </html>
