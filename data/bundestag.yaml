@@ -8,12 +8,34 @@ socialmedia:
 abgeordnete:
   - name: Abdi, Sanae
     partei: SPD
+    socialmedia:
+      web: https://sanae-abdi.spd.de
+      facebook: https://www.facebook.com/sanaeabdispd
+      twitter: https://twitter.com/_sanaeabdi
+      instagram: https://www.instagram.com/sanae_ccaa/
+      telegram: https://t.me/sanaeabdispd
   - name: Abel, Valentin
     partei: FDP
+    socialmedia:
+      web: https://vabel.abgeordnete.fdpbt.de
+      instagram: https://www.instagram.com/valentin_christian_abel
+      facebook: https://www.facebook.com/valentinabel.fdp
+      twitter: https://twitter.com/Valentin_C_Abel
+      linkedin: https://de.linkedin.com/in/valentin-christian-abel-8a4355114
   - name: Abraham, Knut
     partei: CDU/CSU
+    socialmedia:
+      web: https://knut-abraham.de/index.html
+      facebook: https://www.facebook.com/abraham.knut
+      twitter: https://twitter.com/Knut_Abraham
   - name: Adler, Katja
     partei: FDP
+    socialmedia:
+      web: https://kadler.abgeordnete.fdpbt.de
+      facebook: https://www.facebook.com/katjadler
+      twitter: https://twitter.com/katjadler
+      instagram: https://www.instagram.com/katj_ad
+      linkedin: https://de.linkedin.com/in/katja-adler
   - name: Aeffner, Stephanie
     partei: Bündnis 90/Die Grünen
     socialmedia:
@@ -24,6 +46,10 @@ abgeordnete:
       mastodon: https://gruene.social/@S_Aeffner
   - name: Ahmetović, Adis
     partei: SPD
+    socialmedia:
+      web: https://adis-ahmetovic.de
+      facebook: https://www.facebook.com/AdisAhmetovic.SPD
+      instagram: https://www.instagram.com/adis.a93/
   - name: Akbulut, Gökay
     partei: Die Linke
     socialmedia:
@@ -35,10 +61,30 @@ abgeordnete:
       instagram: https://www.instagram.com/g.akbulut_mdb/
   - name: Al-Dailami, Ali
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@ali_aldailami
+      web: https://ali-al-dailami.de
+      instagram: https://www.instagram.com/alialdailami.mdb/
   - name: Al-Halak, Muhanad
     partei: FDP
+    socialmedia:
+      web: https://malhalak.abgeordnete.fdpbt.de
+      facebook: https://www.facebook.com/AlHalakMuhanad/
+      twitter: https://twitter.com/HalakMuhanad?s=20
+      instagram: https://www.instagram.com/al_halak_m/
+      youtube: https://www.youtube.com/channel/UCXnWOeostse7Kl1v8zh9fRQ
+      linkedin: https://www.linkedin.com/in/muhanad-al-halak-mdb-09a900219
+      xing: https://www.xing.com/profile/Muhanad_AlHalak
+      tiktok: https://vm.tiktok.com/ZMdyN661S/
   - name: Alabali-Radovan, Reem
     partei: SPD
+    socialmedia:
+      web: https://www.reem-alabali-radovan.de
+      instagram: https://www.instagram.com/reem.alabaliradovan/
+      facebook: https://www.facebook.com/reem.alabaliradovan/
+      twitter: https://twitter.com/ReemAlabali
+      linkedin: https://de.linkedin.com/in/reem-a-6a2776178
+      youtube: https://www.youtube.com/channel/UCVseSa2Lhkevj0QzVQrabpA
   - name: Albani, Stephan
     partei: CDU/CSU
   - name: Alt, Renata
