@@ -574,6 +574,7 @@ abgeordnete:
     twitter: https://twitter.com/andreaskrahl1
     web: https://andreas-krahl.de
     youtube: https://www.youtube.com/channel/UCi2V_KVHQaELcWjT3llH9aA
+    mastodon: https://troet.cafe/@AndreasKrahl
 - name: Kraus, Nikolaus
   partei: FREIE WÄHLER
   socialmedia:
@@ -617,6 +618,7 @@ abgeordnete:
     twitter: https://twitter.com/EvaLettenbauer
     web: https://www.eva-lettenbauer.de
     youtube: https://www.youtube.com/channel/UCIcnRzKt6COKsWwNlcOTWlA
+    mastodon: https://gruene.social/@EvaLettenbauer
 - name: Lindinger, Christian
   partei: FREIE WÄHLER
 - name: Lipp, Oskar
@@ -968,22 +970,53 @@ abgeordnete:
     web: https://ursula-sowa.de
 - name: Stadler, Ralf
   partei: AfD
+  socialmedia:
+    facebook: https://www.facebook.com/ralf.stadler.mdl/
+    web: https://ralfstadler.de/
+    telegram: https://t.me/RalfStadler_MdL
+    twitter: https://twitter.com/ralfstadler_mdl
+    instagram: https://www.instagram.com/ralfstadler_mdl/
+    tiktok: https://www.tiktok.com/@ralfunzensiert
 - name: Stieglitz, Werner
   partei: CSU
+  socialmedia:
+    instagram: https://www.instagram.com/werner_stieglitz/
 - name: Stock, Martin
   partei: CSU
+  socialmedia:
+    facebook: https://www.facebook.com/MartinStockCSU
+    instagram: https://www.instagram.com/martin_p_stock/
 - name: Stolz, Anna
   partei: FREIE WÄHLER
+  socialmedia: 
+    web: https://www.mdl-annastolz.de
+    facebook: https://www.facebook.com/anna.stolz.376
+    instagram: https://www.instagram.com/anna.stolz.mdl/
 - name: Storm, Ramona
   partei: AfD
+  socialmedia:
+    facebook: https://www.facebook.com/storm.ramona/
 - name: Straub, Karl
   partei: CSU
+  socialmedia:
+    web: https://www.karl-straub.de
 - name: Streibl, Florian
   partei: FREIE WÄHLER
+  socialmedia:
+    web: https://www.florian-streibl.de
+    facebook: https://www.facebook.com/florianstreiblmdl
 - name: Striedl, Markus
   partei: AfD
+  socialmedia:
+    facebook: https://www.facebook.com/StriedlMarkus/
 - name: Strohmayr, Dr. Simone
   partei: SPD
+  socialmedia:
+    web: https://simone-strohmayr.de
+    facebook: https://www.facebook.com/SimoneStrohmayrMdL/
+    twitter: https://twitter.com/StrohmayrS
+    instagram: https://www.instagram.com/simone.strohmayr/
+    youtube: https://www.youtube.com/channel/UCWgoEgiUqwwRwsqZXbagyWw
 - name: Stümpfig, Martin
   partei: GRÜNE
   socialmedia:
@@ -994,14 +1027,34 @@ abgeordnete:
     youtube: http://www.youtube.com/channel/UCHzvKQIwjdhKs9uuYzOODYA
 - name: Söder, Dr. Markus
   partei: CSU
+  socialmedia:
+    instagram: https://www.instagram.com/markus.soeder/
+    web: https://www.soeder.de
+    twitter: https://twitter.com/Markus_Soeder
+    facebook: https://www.facebook.com/markus.soder.75/
 - name: Tasdelen, Arif
   partei: SPD
+  socialmedia:
+    web: https://www.arif-tasdelen.de
+    instagram: https://www.instagram.com/arif.tasdelen.spd/
+    facebook: https://www.facebook.com/arif.tasdelen.spd/
+    twitter: https://twitter.com/arif_tasdelen
+    youtube: https://www.youtube.com/channel/UCj1xA3BnXpZ9xOIF0PtfG9A
 - name: Tomaschko, Peter
   partei: CSU
+  socialmedia:
+    web: https://www.peter-tomaschko.de
+    facebook: https://de-de.facebook.com/peter.tomaschko
 - name: Toso, Roswitha
   partei: FREIE WÄHLER
+  socialmedia:
+    web: https://www.roswitha-toso.de
 - name: Trautner, Carolina
   partei: CSU
+  socialmedia:
+    web: https://carolina-trautner.de
+    instagram: https://www.instagram.com/carolinatrautner/
+    facebook: https://www.facebook.com/carolina.trautner.seite
 - name: Triebel, Gabriele
   partei: GRÜNE
   socialmedia:
@@ -1012,16 +1065,34 @@ abgeordnete:
     youtube: https://www.youtube.com/channel/UCRHnekycbeVR693hMxZ-Raw
 - name: Vogel, Steffen
   partei: CSU
+  socialmedia:
+    instagram: https://www.instagram.com/steffenvogelmdl/
+    facebook: https://www.facebook.com/steffen.vogel.7509
 - name: Vogler, Matthias
   partei: AfD
+  socialmedia:
+    facebook: https://www.facebook.com/VoglerMatthias/
 - name: Wachler, Peter
   partei: CSU
+  socialmedia:
+    web: https://peter-wachler.de
+    facebook: https://www.facebook.com/peter.wachler/
+    instagram: https://www.instagram.com/peter.wachler/
 - name: Wagle, Martin
   partei: CSU
+  socialmedia:
+    web: https://www.martin-wagle.de
+    facebook: https://www.facebook.com/Martin-Wagle-109187031779573
 - name: Walbrunn, Markus
   partei: AfD
+  socialmedia:
+    facebook: https://www.facebook.com/walbrunn.afd/
 - name: Waldmann, Ruth
   partei: SPD
+  socialmedia:
+    web: https://ruth-waldmann.de
+    facebook: https://www.facebook.com/ruth.waldmann.3
+    twitter: https://twitter.com/RuthWaldmann
 - name: Weber, Laura
   partei: GRÜNE
   socialmedia:
@@ -1036,16 +1107,38 @@ abgeordnete:
     youtube: https://www.youtube.com/user/GRUENE
 - name: Weigert, Roland
   partei: FREIE WÄHLER
+  socialmedia:
+    web: https://roland-weigert.bayern/start.html
+    facebook: https://www.facebook.com/rolandweigert.fw
+    instagram: https://www.instagram.com/roland.weigert/
 - name: Weitzel, Katja
   partei: SPD
+  socialmedia:
+    facebook: https://www.facebook.com/WeitzelKatja
+    twitter: https://twitter.com/KatjaWeitzel
+    instagram: https://www.instagram.com/katja_weitzel
 - name: Widmann, Jutta
   partei: FREIE WÄHLER
+  socialmedia:
+    web: https://www.jutta-widmann.de
+    facebook: https://www.facebook.com/jutta.widmann.freie.waehler/
 - name: Winhart, Andreas
   partei: AfD
+  socialmedia:
+    web: https://andywinhart.de
+    twitter: https://twitter.com/andywinhart
+    youtube: https://www.youtube.com/channel/UCW-Gj1AiuGOn8I0r7m0LstA
+    tiktok: https://www.tiktok.com/@andywinhart
+    facebook: https://www.facebook.com/burgerburo.winhart.9/
 - name: Zellmeier, Josef
   partei: CSU
+  socialmedia:
+    web: https://www.zellmeier.de
+    facebook: https://www.facebook.com/josef.zellmeier
 - name: Zierer, Benno
   partei: FREIE WÄHLER
+  socialmedia:
+    web: https://www.benno-zierer.de
 - name: Zwanziger, Christian
   partei: GRÜNE
   socialmedia:
@@ -1058,6 +1151,12 @@ abgeordnete:
   partei: FREIE WÄHLER
 - name: von Brunn, Florian
   partei: SPD
+  socialmedia:
+    web: https://florianvonbrunn.de
+    facebook: https://www.facebook.com/FlorianvB
+    twitter: https://twitter.com/@FlorianvonBrunn
+    instagram: https://www.instagram.com/fvbrunn/
+    flickr: https://www.flickr.com/photos/152236396@N07
 socialmedia:
   facebook: https://www.facebook.com/Bayern.Landtag/
   instagram: https://www.instagram.com/bayerischer.landtag/
