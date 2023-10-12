@@ -87,36 +87,123 @@ abgeordnete:
       youtube: https://www.youtube.com/channel/UCVseSa2Lhkevj0QzVQrabpA
   - name: Albani, Stephan
     partei: CDU/CSU
+    socialmedia:
+      web: https://stephan-albani.de
+      facebook: https://www.facebook.com/StephanAlbaniMdB
+      youtube: https://www.youtube.com/channel/UCscDMz95dcQQvCHL5prMYgw
   - name: Alt, Renata
     partei: FDP
+    socialmedia:
+      web: https://www.renata-alt.de
+      facebook: https://www.facebook.com/AltRenata
+      twitter: https://twitter.com/RenataAlt_MdB
+      instagram: https://instagram.com/renataalt_mdb
   - name: Altenkamp, Norbert Maria
     partei: CDU/CSU
+    socialmedia: 
+      web: https://www.norbert-altenkamp.de
+      facebook: https://www.facebook.com/AltenkampMdB/
+      youtube: https://www.youtube.com/channel/UCb383hLVbcU0_aqtcvV25mA
+      instagram: https://www.instagram.com/norbert.altenkamp/
   - name: Amthor, Philipp
     partei: CDU/CSU
+    socialmedia: 
+      web: https://www.philipp-amthor.de
+      facebook: https://www.facebook.com/amthor.philipp/about/
+      instagram: https://www.instagram.com/philipp.amthor/
   - name: Amtsberg, Luise
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      web: https://luise-amtsberg.de
+      instagram: https://www.instagram.com/amtsbergluise/
+      youtube: https://www.youtube.com/channel/UCWeBUjQI08-we-KkJoeVC1Q
+      facebook: https://de-de.facebook.com/LuiseAmtsberg/
   - name: Andres, Dagmar
     partei: SPD
+    socialmedia: 
+      web: https://dagmar-andres.de
+      facebook: https://www.facebook.com/DagmarAndresSPD
+      instagram: https://www.instagram.com/dagmar.andres/
+      twitter: https://twitter.com/DagmarAndres
+      youtube: https://www.youtube.com/channel/UCqx5xnKfnvKrRR5mEpCARXQ
   - name: Annen, Niels
     partei: SPD
+    socialmedia:
+      web: https://www.nielsannen.de
+      facebook: https://www.facebook.com/nielsannen/
+      twitter: https://twitter.com/NielsAnnen
+      instagram: https://www.instagram.com/nielsannen/
   - name: Arlt, Johannes
     partei: SPD
+    socialmedia:
+      web: https://johannesarlt-mv.de
+      instagram: https://www.instagram.com/johannes_arlt/
+      facebook: https://www.facebook.com/arltjohannes
+      twitter: https://twitter.com/arlt_johannes
+      youtube: https://www.youtube.com/channel/UCu8fx_cDFAFfQ45jhrmByhA
+      linkedin: https://www.linkedin.com/in/johannes-arlt-bjerreh%C3%B8j-13a05713/
   - name: Aschenberg-Dugnus, Christine
     partei: FDP
+    socialmedia:
+      web: https://www.aschenberg-dugnus.de
+      facebook: https://www.facebook.com/AschenbergDugnusMdB/
+      twitter: https://twitter.com/cad59
+      instagram: https://www.instagram.com/aschenbergdugnus/
   - name: Audretsch, Andreas
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      web: https://andreasaudretsch.de
+      twitter: https://twitter.com/anaudretsch
+      instagram: https://www.instagram.com/andreasaudretsch/
+      mastodon: https://gruene.social/@anaudretsch
   - name: Auernhammer, Artur
     partei: CDU/CSU
+    socialmedia:
+      web: https://artur-auernhammer.de
+      facebook: https://www.facebook.com/AuernhammerMdB/
   - name: Aumer, Peter
     partei: CDU/CSU
+    socialmedia:
+      web: https://peteraumer.de
+      facebook: https://www.facebook.com/PeAumer
+      instagram: https://www.instagram.com/pete_aum
+      twitter: https://twitter.com/PeterAumer
+      youtube: https://www.youtube.com/channel/UCNCHVY14iA86hTuzhiWFVhA
   - name: Außendorf, Maik
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      web: https://maik-aussendorf.de
+      twitter: https://twitter.com/maik_aussendorf
+      facebook: https://www.facebook.com/Maik-Auendorf-108607258028382
+      instagram: https://www.instagram.com/maikaussendorf/
+      youtube: https://www.youtube.com/c/MaikAu%C3%9Fendorf
+      linkedin: https://www.linkedin.com/in/maik-au%C3%9Fendorf-208a495b
+      mastodon: https://gruene.social/@AussenMa
+      peertube: https://peertube.netzbegruenung.de/a/aussenma/video-channels
   - name: Bacherle, Tobias B.
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      web: https://tbbacherle.eu
+      twitter: https://www.twitter.com/tbbacherle
+      facebook: https://www.fb.com/tbbacherle
+      instagram: https://www.instagram.com/tbbacherle
+      youtube: https://www.youtube.com/channel/UC4XuIQcJ8HZuwBR050-xHag
   - name: Bachmann, Carolin
     partei: AfD
+    socialmedia:
+      web: https://carolinbachmann.de
+      facebook: https://www.facebook.com/CarolinBachmannAfD
+      instagram: https://www.instagram.com/carolin.bachmann/
+      youtube: https://www.youtube.com/channel/UCskdcXid2nqXcxYBWn86M2w
   - name: Badum, Lisa
     partei: Bündnis 90/Die Grünen
+    socialmedia:  
+      web: https://www.lisa-badum.de
+      facebook: https://de-de.facebook.com/BadumLisa/
+      instagram: https://www.instagram.com/badumlisa
+      twitter: https://twitter.com/badumlisa
+      youtube: https://www.youtube.com/channel/UCEWjCdSFg5sjIkxmhezo2-A
+      mastodon: https://gruene.social/@badumlisa
   - name: Baehrens, Heike
     partei: SPD
   - name: Bär, Dorothee
