@@ -234,27 +234,67 @@ abgeordnete:
     web: https://annalena-baerbock.de
 - name: Bahr, Ulrike
   partei: SPD
+  socialmedia:
+    web: https://ulrike-bahr.de
+    facebook: https://www.facebook.com/mdb.ulrike.bahr/
+    twitter: https://twitter.com/MdB_Ulrike_Bahr
+    instagram: https://www.instagram.com/mdb.ulrike.bahr/
+    youtube: https://www.youtube.com/channel/UCnB2pVdv9Q277X7wjfVtAqw
 - name: Baldy, Daniel
   partei: SPD
   socialmedia:
+    web: https://www.daniel-baldy.de
+    youtube: https://www.youtube.com/channel/UCkwtrOd7xyyWlcQofecSOCQ
+    instagram: https://www.instagram.com/baldy.daniel/
+    facebook: https://www.facebook.com/baldy.spd
     tiktok: https://www.tiktok.com/@mdbaldy
 - name: Banaszak, Felix
   partei: Bündnis 90/Die Grünen
   socialmedia:
+    web: https://www.felixbanaszak.de
     tiktok: https://www.tiktok.com/@felixbanaszak
+    linkedin: https://de.linkedin.com/in/felix-banaszak
+    facebook: https://de-de.facebook.com/felix.banaszak
+    twitter: https://twitter.com/fbanaszak
+    instagram: https://www.instagram.com/fbanaszak/
 - name: Baradari, Nezahat
   partei: SPD
+  socialmedia:
+    web: https://www.nezahat-baradari.de
+    facebook: https://www.facebook.com/Baradari2023/
+    instagram: https://www.instagram.com/nezahatbaradari/
+    youtube: https://www.youtube.com/channel/UCctgjyNicl--YzvO8fs4Kug
 - name: Bareiß, Thomas
   partei: CDU/CSU
+  socialmedia:
+    web: https://www.thomas-bareiss.de
+    facebook: https://www.facebook.com/thomas.bareiss/
+    instagram: https://www.instagram.com/thomasbareiss
+    youtube: https://www.youtube.com/channel/UCEmEBGG4Z6IlBAEDXFAvE4g
+    twitter: https://twitter.com/thomas_bareiss
 - name: Bartelt, Christian
   partei: FDP
+  socialmedia:
+    web: https://www.christian-bartelt.de
+    facebook: https://www.facebook.com/christian.bartelt.1
+    twitter: https://twitter.com/C_Bartelt
+    instagram: https://www.instagram.com/christian_bartelt_mdb/
 - name: Bartol, Sören
   partei: SPD
+  socialmedia:
+    web: https://soeren-bartol.spd.de
+    facebook: https://www.facebook.com/soerenbartol
+    youtube: https://www.youtube.com/channel/UCG3g9VznrnBcFG_jTyyTD0A
+    instagram: https://www.instagram.com/soeren.bartol/
 - name: Bartsch, Dr. Dietmar
   partei: Die Linke
   socialmedia:
+    web: https://www.dietmar-bartsch.de
     mastodon: https://social.linksfraktion.de/@dietmarbartsch
     tiktok: https://www.tiktok.com/@dietmarbartsch
+    facebook: https://www.facebook.com/DietmarBartschMdB
+    twitter: https://www.twitter.com/DietmarBartsch
+    youtube: https://www.youtube.com/playlist?list=PLG4aoPhmPo8U23m_jFI2t4n3bM-MYukqT
 - name: Bartz, Alexander
   partei: SPD
 - name: Bas, Bärbel
@@ -2136,6 +2176,5 @@ socialmedia:
   instagram: https://www.instagram.com/bundestag/
   linkedin: https://www.linkedin.com/company/deutscher-bundestag-verwaltung
   mastodon: https://social.bund.de/@bundestag
-  twitter: https://twitter.com/hib_nachrichten
   web: https://www.bundestag.de
   youtube: https://www.youtube.com/bundestag
