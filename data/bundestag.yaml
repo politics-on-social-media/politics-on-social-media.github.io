@@ -100,14 +100,14 @@ abgeordnete:
       instagram: https://instagram.com/renataalt_mdb
   - name: Altenkamp, Norbert Maria
     partei: CDU/CSU
-    socialmedia: 
+    socialmedia:
       web: https://www.norbert-altenkamp.de
       facebook: https://www.facebook.com/AltenkampMdB/
       youtube: https://www.youtube.com/channel/UCb383hLVbcU0_aqtcvV25mA
       instagram: https://www.instagram.com/norbert.altenkamp/
   - name: Amthor, Philipp
     partei: CDU/CSU
-    socialmedia: 
+    socialmedia:
       web: https://www.philipp-amthor.de
       facebook: https://www.facebook.com/amthor.philipp/about/
       instagram: https://www.instagram.com/philipp.amthor/
@@ -120,12 +120,13 @@ abgeordnete:
       facebook: https://de-de.facebook.com/LuiseAmtsberg/
   - name: Andres, Dagmar
     partei: SPD
-    socialmedia: 
+    socialmedia:
       web: https://dagmar-andres.de
       facebook: https://www.facebook.com/DagmarAndresSPD
       instagram: https://www.instagram.com/dagmar.andres/
       twitter: https://twitter.com/DagmarAndres
       youtube: https://www.youtube.com/channel/UCqx5xnKfnvKrRR5mEpCARXQ
+      mastodon: https://social.anoxinon.de/@Dagma
   - name: Annen, Niels
     partei: SPD
     socialmedia:
@@ -188,6 +189,7 @@ abgeordnete:
       facebook: https://www.fb.com/tbbacherle
       instagram: https://www.instagram.com/tbbacherle
       youtube: https://www.youtube.com/channel/UC4XuIQcJ8HZuwBR050-xHag
+      mastodon: https://gruene.social/@TBBacherle
   - name: Bachmann, Carolin
     partei: AfD
     socialmedia:
@@ -197,7 +199,7 @@ abgeordnete:
       youtube: https://www.youtube.com/channel/UCskdcXid2nqXcxYBWn86M2w
   - name: Badum, Lisa
     partei: Bündnis 90/Die Grünen
-    socialmedia:  
+    socialmedia:
       web: https://www.lisa-badum.de
       facebook: https://de-de.facebook.com/BadumLisa/
       instagram: https://www.instagram.com/badumlisa
@@ -206,12 +208,31 @@ abgeordnete:
       mastodon: https://gruene.social/@badumlisa
   - name: Baehrens, Heike
     partei: SPD
+    socialmedia:
+      web: https://www.heike-baehrens.de
+      facebook: https://www.facebook.com/baehrensmdb/
+      instagram: https://www.instagram.com/heikebaehrens/
   - name: Bär, Dorothee
     partei: CDU/CSU
+    socialmedia:
+      web: https://dorothee-baer.de
+      twitter: https://twitter.com/DoroBaer
+      youtube: https://www.youtube.com/user/DorotheeBaerMdB
+      linkedin: https://www.linkedin.com/in/dorothee-b%C3%A4r-631323118/
+      instagram: https://www.instagram.com/dorobaer/
   - name: Bär, Karl
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      web: https://home.karl-baer.eu
+      twitter: https://twitter.com/karlbaer
+      facebook: https://www.facebook.com/KarlBaerBundestag/
+      instagram: https://www.instagram.com/karl.baer/
   - name: Baerbock, Annalena
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      web: https://annalena-baerbock.de
+      instagram: https://www.instagram.com/abaerbock/
+      twitter: https://twitter.com/ABaerbock/
   - name: Bahr, Ulrike
     partei: SPD
   - name: Baldy, Daniel
@@ -228,10 +249,14 @@ abgeordnete:
     partei: SPD
   - name: Bartsch, Dr. Dietmar
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@dietmarbartsch
   - name: Bartz, Alexander
     partei: SPD
   - name: Bas, Bärbel
     partei: SPD
+    socialmedia:
+      mastodon: https://nrw.social/@baerbelbas
   - name: Bauer, Nicole
     partei: FDP
   - name: Baum, Dr. Christina
@@ -270,6 +295,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Birkwald, Matthias W.
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@matthias_w_birkwald
   - name: Blankenburg, Jakob
     partei: SPD
   - name: Bleck, Andreas
@@ -300,6 +327,8 @@ abgeordnete:
     partei: AfD
   - name: Brantner, Dr. Franziska
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@franziskabrantner
   - name: Braun, Prof. Dr. Helge
     partei: CDU/CSU
   - name: Braun, Jürgen
@@ -322,6 +351,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Brugger, Agnieszka
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@agnieszka
   - name: Bsirske, Frank
     partei: Bündnis 90/Die Grünen
   - name: Bubendorfer-Licht, Sandra
@@ -332,6 +363,8 @@ abgeordnete:
     partei: AfD
   - name: Bünger, Clara
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@clarabuenger
   - name: Bury, Yannick
     partei: CDU/CSU
   - name: Buschmann, Dr. Marco
@@ -342,6 +375,8 @@ abgeordnete:
     partei: AfD
   - name: Cademartori, Isabel
     partei: SPD
+    socialmedia:
+      mastodon: https://rheinneckar.social/@isacademartori
   - name: Castellucci, Prof. Dr. Lars
     partei: SPD
   - name: Christmann, Dr. Anna
@@ -352,6 +387,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Coße, Jürgen
     partei: SPD
+    socialmedia:
+      mastodon: https://nrw.social/@MdB
   - name: Cotar, Joana
     partei: fraktionslos
   - name: Cronenberg, Carl-Julius
@@ -368,6 +405,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Dağdelen, Sevim
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@sevimdagdelen
   - name: De Ridder, Dr. Daniela
     partei: SPD
   - name: Deligöz, Ekin
@@ -376,8 +415,12 @@ abgeordnete:
     partei: SPD
   - name: Detzer, Dr. Sandra
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@Detzer_Sandra
   - name: Diaby, Dr. Karamba
     partei: SPD
+    socialmedia:
+      mastodon: https://mastodon.social/@drkarambadiaby
   - name: Diedenhofen, Martin
     partei: SPD
   - name: Dieren, Jan
@@ -396,24 +439,34 @@ abgeordnete:
     partei: SPD
   - name: Domscheit-Berg, Anke
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@ankedb
   - name: Donth, Michael
     partei: CDU/CSU
   - name: Dröge, Katharina
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@katdro
   - name: Droßmann, Falko
     partei: SPD
   - name: Düring, Deborah
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@deborahduering
   - name: Dürr, Christian
     partei: FDP
   - name: Durz, Hansjörg
     partei: CDU/CSU
   - name: Ebner, Harald
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@HaraldEbner
   - name: Echeverria, Axel
     partei: SPD
   - name: Eckert, Leon
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@Leckert
   - name: Edelhäußer, Ralph
     partei: CDU/CSU
   - name: Ehrhorn, Thomas
@@ -432,10 +485,14 @@ abgeordnete:
     partei: CDU/CSU
   - name: Ernst, Klaus
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@klausernst
   - name: Esdar, Dr. Wiebke
     partei: SPD
   - name: Esken, Saskia
     partei: SPD
+    socialmedia:
+      mastodon: https://mastodon.social/@eskensaskia
   - name: Espendiller, Dr. Michael
     partei: AfD
   - name: Faber, Dr. Marcus
@@ -457,6 +514,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Ferschl, Susanne
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@susanneferschl
   - name: Fester, Emilia
     partei: Bündnis 90/Die Grünen
   - name: Fiedler, Sebastian
@@ -485,12 +544,16 @@ abgeordnete:
     partei: SPD
   - name: Funke-Kaiser, Maximilian
     partei: FDP
+    socialmedia:
+      mastodon: https://troet.cafe/@mfk
   - name: Gädechens, Ingo
     partei: CDU/CSU
   - name: Gambir, Schahina
     partei: Bündnis 90/Die Grünen
   - name: Ganserer, Tessa
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@tessaganserer
   - name: Gassner-Herz, Martin
     partei: FDP
   - name: Gastel, Matthias
@@ -503,6 +566,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Gehring, Kai
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@KaiGehring
   - name: Geissler, Dr. Jonas
     partei: CDU/CSU
   - name: Gelbhaar, Stefan
@@ -515,6 +580,8 @@ abgeordnete:
     partei: SPD
   - name: Gesenhues, Dr. Jan-Niclas
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://mstdn.social/@j_gesenhues
   - name: Glaser, Albrecht
     partei: AfD
   - name: Glöckner, Angelika
@@ -525,10 +592,16 @@ abgeordnete:
     partei: AfD
   - name: Göring-Eckardt, Katrin
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@GoeringEckardt
   - name: Görke, Christian
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@christiangoerke
   - name: Gohlke, Nicole
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@nicolegohlke
   - name: Gottschalk, Kay
     partei: AfD
   - name: Gräßle, Dr. Ingeborg
@@ -537,6 +610,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Grau, Prof. Dr. Armin
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@ArminGrau
   - name: Gremmels, Timon
     partei: SPD
   - name: Griese, Kerstin
@@ -555,10 +630,14 @@ abgeordnete:
     partei: CDU/CSU
   - name: Grützmacher, Sabine
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@sabinegruetzmacher
   - name: Grund, Manfred
     partei: CDU/CSU
   - name: Grundl, Erhard
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@Erhard_Grundl
   - name: Grundmann, Oliver
     partei: CDU/CSU
   - name: Güler, Serap
@@ -567,10 +646,14 @@ abgeordnete:
     partei: CDU/CSU
   - name: Gürpinar, Ates
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@ates_guerpinar
   - name: Gutting, Olav
     partei: CDU/CSU
   - name: Gysi, Dr. Gregor
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@gregorgysi
   - name: Haase, Christian
     partei: CDU/CSU
   - name: Habeck, Dr. Robert
@@ -583,10 +666,14 @@ abgeordnete:
     partei: SPD
   - name: Hahn, Dr. André
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@andrehahn
   - name: Hahn, Florian
     partei: CDU/CSU
   - name: Hakverdi, Metin
     partei: SPD
+    socialmedia:
+      mastodon: https://d-64.social/@MetinHakverdi
   - name: Hanke, Reginald
     partei: FDP
   - name: Harder-Kühnel, Mariana Iris
@@ -601,6 +688,8 @@ abgeordnete:
     partei: FDP
   - name: Haßelmann, Britta
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@BriHasselmann
   - name: Hauer, Matthias
     partei: CDU/CSU
   - name: Haug, Jochen
@@ -633,11 +722,14 @@ abgeordnete:
     partei: SPD
   - name: Henneberger, Kathrin
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@KathrinHenneberger
   - name: Hennig, Anke
     partei: SPD
   - name: Hennig-Wellsow, Susanne
     partei: Die Linke
-
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@susanne_hennig_wellsow
   - name: Henrichmann, Marc
     partei: CDU/CSU
   - name: Herbrand, Markus
@@ -662,14 +754,20 @@ abgeordnete:
     partei: CDU/CSU
   - name: Hitschler, Thomas
     partei: SPD
+    socialmedia:
+      mastodon: https://rheinneckar.social/@thomashitschler
   - name: Hocker, Dr. Gero Clemens
     partei: FDP
   - name: Höchst, Nicole
     partei: AfD
   - name: Höferlin, Manuel
     partei: FDP
+    socialmedia:
+      mastodon: https://mastodon.social/@manuelhoeferlin
   - name: Hönel, Bruno
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://mastodon.world/@bruno_hoenel
   - name: Hoffmann, Alexander
     partei: CDU/CSU
   - name: Hoffmann, Dr. Bettina
@@ -698,6 +796,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Hunko, Andrej
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@andrejhunko
   - name: Huy, Gerrit
     partei: AfD
   - name: in der Beek, Olaf
@@ -734,8 +834,12 @@ abgeordnete:
     partei: Bündnis 90/Die Grünen
   - name: Kaiser, Elisabeth
     partei: SPD
+    socialmedia:
+      mastodon: https://mastodon.social/@ElisabethKaiser
   - name: Kappert-Gonther, Dr. Kirsten
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@kirstenKappert
   - name: Karaahmetoğlu, Macit
     partei: SPD
   - name: Karliczek, Anja
@@ -753,6 +857,8 @@ abgeordnete:
 
   - name: Kellner, Michael
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@MichaelKellner
   - name: Kemmer, Ronja
     partei: CDU/CSU
   - name: Kersten, Dr. Franziska
@@ -763,6 +869,8 @@ abgeordnete:
     partei: AfD
   - name: Khan, Misbah
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@MisbahKhan
   - name: Kiesewetter, Roderich
     partei: CDU/CSU
   - name: Kießling, Michael
@@ -782,6 +890,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Klein-Schmeink, Maria
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://nrw.social/@MKleinSchmeink
   - name: Kleinwächter, Norbert
     partei: AfD
   - name: Klinck, Dr. Kristian
@@ -820,14 +930,20 @@ abgeordnete:
     partei: CDU/CSU
   - name: Kopf, Chantal
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://freiburg.social/@ChantalKopf
   - name: Korte, Jan
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@jankorte
   - name: Koß, Simona
     partei: SPD
   - name: Kotré, Steffen
     partei: AfD
   - name: Krämer, Philip
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@philipkraemer
   - name: Kraft, Laura
     partei: Bündnis 90/Die Grünen
   - name: Kraft, Dr. Rainer
@@ -853,6 +969,8 @@ abgeordnete:
     partei: Bündnis 90/Die Grünen
   - name: Kühnert, Kevin
     partei: SPD
+    socialmedia:
+      mastodon: https://mastodon.social/@KuehniKev
   - name: Künast, Renate
     partei: Bündnis 90/Die Grünen
   - name: Kuhle, Konstantin
@@ -872,12 +990,16 @@ abgeordnete:
     partei: CDU/CSU
   - name: Latendorf, Ina
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@ina_latendorf
   - name: Launert, Dr. Silke
     partei: CDU/CSU
   - name: Lauterbach, Prof. Dr. Karl
     partei: SPD
   - name: Lay, Caren
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@carenlay
   - name: Lechte, Ulrich
     partei: FDP
   - name: Lehmann, Jens
@@ -898,10 +1020,14 @@ abgeordnete:
     partei: FDP
   - name: Lenkert, Ralph
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@ralphlenkert
   - name: Lenz, Dr. Andreas
     partei: CDU/CSU
   - name: Leye, Christian
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@christianleye
   - name: Licina-Bode, Luiza
     partei: SPD
   - name: Lieb, Dr. Thorsten
@@ -930,6 +1056,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Lötzsch, Dr. Gesine
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@gesine_loetzsch
   - name: Loop, Denise
     partei: Bündnis 90/Die Grünen
   - name: Loos, Bernhard
@@ -944,6 +1072,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Lührmann, Dr. Anna
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://mastodon.social/@annaluehrmann
   - name: Lütke, Kristine
     partei: FDP
   - name: Lugk, Bettina
@@ -952,7 +1082,8 @@ abgeordnete:
     partei: FDP
   - name: Lutze, Thomas
     partei: SPD
-
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@thomaslutze
   - name: Machalet, Dr. Tanja
     partei: SPD
   - name: Mack, Klaus
@@ -963,6 +1094,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Malottki, Erik von
     partei: SPD
+    socialmedia:
+      mastodon: https://norden.social/@evm
   - name: Mann, Holger
     partei: SPD
   - name: Mansmann, Till
@@ -985,14 +1118,20 @@ abgeordnete:
     partei: CDU/CSU
   - name: Mayer, Dr. Zoe
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@zoe
   - name: Mayer-Lay, Volker
     partei: CDU/CSU
   - name: Mehltretter, Andreas
     partei: SPD
+    socialmedia:
+      mastodon: https://sueden.social/@mehltretter
   - name: Mehmet Ali, Takis
     partei: SPD
   - name: Meiser, Pascal
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@pascal_meiser
   - name: Meister, Dr. Michael
     partei: CDU/CSU
   - name: Mende, Dirk-Ulrich
@@ -1003,6 +1142,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Mesarosch, Robin
     partei: SPD
+    socialmedia:
+      mastodon: https://sueden.social/@mesarosch
   - name: Metzler, Jan
     partei: CDU/CSU
   - name: Meyer, Christoph
@@ -1020,19 +1161,24 @@ abgeordnete:
     partei: SPD
   - name: Mihalic, Dr. Irene
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@IreneMihalic
   - name: Mijatović, Boris
     partei: Bündnis 90/Die Grünen
   - name: Mittag, Susanne
     partei: SPD
   - name: Möhring, Cornelia
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@cornelia_moehring
   - name: Möller, Siemtje
     partei: SPD
   - name: Mörseburg, Maximilian
     partei: CDU/CSU
   - name: Mohamed Ali, Amira
     partei: Die Linke
-
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@amira_mohamed_ali
   - name: Moll, Claudia
     partei: SPD
   - name: Moncsek, Mike
@@ -1067,6 +1213,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Müller-Gemmeke, Beate
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@GrueneBeate
   - name: Müller-Rosentritt, Frank
     partei: FDP
   - name: Müntefering, Michelle
@@ -1079,16 +1227,22 @@ abgeordnete:
     partei: CDU/CSU
   - name: Nanni, Sara
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://mastodon.green/@sarananni
   - name: Nasr, Rasha
     partei: SPD
   - name: Nastic, Zaklin
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@zaklin_nastic
   - name: Naujok, Edgar
     partei: AfD
   - name: Nestle, Dr. Ingrid
     partei: Bündnis 90/Die Grünen
   - name: Nick, Dr. Ophelia
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@ophelianick
   - name: Nickholz, Brian
     partei: SPD
   - name: Nicolaisen, Petra
@@ -1099,6 +1253,8 @@ abgeordnete:
     partei: AfD
   - name: Notz, Dr. Konstantin von
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@KonstantinNotz
   - name: Nouripour, Omid
     partei: Bündnis 90/Die Grünen
   - name: Nürnberger, Jörg
@@ -1129,6 +1285,8 @@ abgeordnete:
     partei: AfD
   - name: Pahlke, Julian
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://mastodon.green/@j_pahlke
   - name: Pantazis, Dr. Christos
     partei: SPD
   - name: Papenbrock, Wiebke
@@ -1137,6 +1295,8 @@ abgeordnete:
     partei: SPD
   - name: Pau, Petra
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@petra_pau
   - name: Paus, Lisa
     partei: Bündnis 90/Die Grünen
   - name: Pawlik, Natalie
@@ -1145,15 +1305,20 @@ abgeordnete:
     partei: SPD
   - name: Pellmann, Sören
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@soeren_pellmann
   - name: Perli, Victor
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@victorperli
   - name: Peterka, Tobias Matthias
     partei: AfD
   - name: Petry, Christian
     partei: SPD
-
   - name: Piechotta, Dr. med. Paula
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@Paulapiechotta
   - name: Pilsinger, Stephan
     partei: CDU/CSU
   - name: Plobner, Jan
@@ -1166,6 +1331,8 @@ abgeordnete:
     partei: AfD
   - name: Polat, Filiz
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@FilizPolat
   - name: Poschmann, Sabine
     partei: SPD
   - name: Post (Minden), Achim
@@ -1194,13 +1361,16 @@ abgeordnete:
     partei: CDU/CSU
   - name: Reichinnek, Heidi
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@heidi_reichinnek
   - name: Reinalter, Dr. Anja
     partei: Bündnis 90/Die Grünen
-
   - name: Renner, Martin Erwin
     partei: AfD
   - name: Renner, Martina
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@martina_renner
   - name: Reuther, Bernd
     partei: FDP
   - name: Rhie, Ye-One
@@ -1209,6 +1379,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Riexinger, Bernd
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@bernd_riexinger
   - name: Rimkus, Andreas
     partei: SPD
   - name: Rinck, Frank
@@ -1219,6 +1391,8 @@ abgeordnete:
     partei: SPD
   - name: Rößner, Tabea
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@TabeaRoessner
   - name: Röttgen, Dr. Norbert
     partei: CDU/CSU
   - name: Röwekamp, Thomas
@@ -1259,8 +1433,12 @@ abgeordnete:
     partei: SPD
   - name: Saathoff, Johann
     partei: SPD
+    socialmedia:
+      mastodon: https://mastodon.social/@saathoff
   - name: Sacher, Michael
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@Michael_Sacher
   - name: Santos-Wintz, Catarina dos
     partei: CDU/CSU
 
@@ -1274,6 +1452,8 @@ abgeordnete:
     partei: Bündnis 90/Die Grünen
   - name: Schäfer, Dr. Sebastian
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://freiburg.social/@drschaefer
   - name: Schäffler, Frank
     partei: FDP
   - name: Schätzl, Johannes
@@ -1352,6 +1532,8 @@ abgeordnete:
     partei: Bündnis 90/Die Grünen
   - name: Schulze, Svenja
     partei: SPD
+    socialmedia:
+      mastodon: https://muenster.im/@svenja_schulze
   - name: Schwabe, Frank
     partei: SPD
   - name: Schwartze, Stefan
@@ -1386,16 +1568,22 @@ abgeordnete:
     partei: CDU/CSU
   - name: Sitte, Dr. Petra
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@petra_sitte
   - name: Skudelny, Judith
     partei: FDP
   - name: Slawik, Nyke
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://social.cologne/@nykeslawik
   - name: Sorge, Tino
     partei: CDU/CSU
   - name: Spahn, Jens
     partei: CDU/CSU
   - name: Spallek, Dr. Anne Monika
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@aspallek
   - name: Spaniel, Dr. Dirk
     partei: AfD
   - name: Spellerberg, Merle
@@ -1408,12 +1596,16 @@ abgeordnete:
     partei: CDU/CSU
   - name: Stahr, Nina
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@ninastahr
   - name: Stamm-Fibich, Martina
     partei: SPD
   - name: Stark-Watzinger, Bettina
     partei: FDP
   - name: Steffen, Dr. Till
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://det.social/@@TillausEimsbuettel
   - name: Stefinger, Dr. Wolfgang
     partei: CDU/CSU
   - name: Stegemann, Albert
@@ -1426,6 +1618,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Steinmüller, Hanna
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@HanSteinmueller
   - name: Stetten, Christian Freiherr von
     partei: CDU/CSU
   - name: Sthamer, Nadja
@@ -1451,20 +1645,28 @@ abgeordnete:
     partei: CDU/CSU
   - name: Strengmann-Kuhn, Dr. Wolfgang
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@w_sk
   - name: Stüwe, Ruppert
     partei: SPD
   - name: Stumpp, Christina
     partei: CDU/CSU
   - name: Taher Saleh, Kassem
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@kassemtahersaleh
   - name: Tatti, Jessica
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@jessica_tatti
   - name: Tausend, Claudia
     partei: SPD
   - name: Tebroke, Dr. Hermann-Josef
     partei: CDU/CSU
   - name: Tesfaiesus, Awet
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://cultur.social/@awet
   - name: Teuteberg, Linda
     partei: FDP
   - name: Teutrine, Jens
@@ -1481,6 +1683,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Tillmann, Antje
     partei: CDU/CSU
+    socialmedia:
+      mastodon: https://mastodon.social/@AntjeTillmann
   - name: Timmermann-Fechter, Astrid
     partei: CDU/CSU
   - name: Tippelt, Nico
@@ -1515,6 +1719,8 @@ abgeordnete:
     partei: CDU/CSU
   - name: Ulrich, Alexander
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@alexander_ulrich
   - name: Verlinden, Dr. Julia
     partei: Bündnis 90/Die Grünen
   - name: Vieregge, Kerstin
@@ -1527,6 +1733,8 @@ abgeordnete:
     partei: FDP
   - name: Vogler, Kathrin
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@kathrinvogler
   - name: Vogt, Dr. Oliver
     partei: CDU/CSU
   - name: Vontz, Emily
@@ -1539,12 +1747,18 @@ abgeordnete:
     partei: Bündnis 90/Die Grünen
   - name: Wagener, Robin
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@robinwagener
   - name: Wagenknecht, Dr. Sahra
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@sahra_wagenknecht
   - name: Wagner, Dr. Carolin
     partei: SPD
   - name: Wagner, Johannes
     partei: Bündnis 90/Die Grünen
+    socialmedia:
+      mastodon: https://gruene.social/@yooHannes
   - name: Wallstein, Maja
     partei: SPD
   - name: Walter, Hannes
@@ -1607,8 +1821,12 @@ abgeordnete:
     partei: AfD
   - name: Wissing, Dr. Volker
     partei: FDP
+    socialmedia:
+      mastodon: https://mastodon.social/@wissing
   - name: Wissler, Janine
     partei: Die Linke
+    socialmedia:
+      mastodon: https://social.linksfraktion.de/@janine_wissler
   - name: Witt, Uwe
     partei: fraktionslos
   - name: Wittmann, Mechthilde
@@ -1631,6 +1849,8 @@ abgeordnete:
     partei: SPD
   - name: Zimmermann, Dr. Jens
     partei: SPD
+    socialmedia:
+      mastodon: https://mastodon.social/@JensZSPD
   - name: Zippelius, Nicolas
     partei: CDU/CSU
   - name: Zorn, Armand
