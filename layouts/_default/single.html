@@ -2,47 +2,72 @@
 <h1>{{ .Title }}</h1>
 <div>{{ .Content }}</div>
 <table class="table table-striped table-sm">
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Partei</th>
-            <th>Web</th>
-            <th>Mastodon</th>
-            <th>Twitter</th>
-            <th>Facebook</th>
-            <th>Instagram</th>
-            <th>YouTube</th>
-            <th>LinkedIn</th>
-            <th>TikTok</th>
-        </tr>
-    </thead>
-    <tbody>
-        {{ with index .Site.Data .File.ContentBaseName }}
-        {{ range .abgeordnete }}
-        <tr>
-            <td>{{ .name }}</td>
-            <td>{{ .partei }}</td>
-            <td>{{ with .socialmedia.web }}<a href="{{ . }}" rel="nofollow">{{ . }}</a>{{ end }}</td>
-            <td>{{ with .socialmedia.mastodon }}<a href="{{ . }}" rel="nofollow"><i class="fa-brands fa-mastodon"></i></a>{{ end }}
-            </td>
-            <td>{{ with .socialmedia.twitter }}<a href="{{ . }}" rel="nofollow"><i
-                        class="fa-brands fa-twitter"></i></a>{{ end }}</td>
-            <td>{{ with .socialmedia.facebook }}<a href="{{ . }}" rel="nofollow"><i
-                        class="fa-brands fa-facebook"></i></a>{{ end }}
-            </td>
-            <td>{{ with .socialmedia.instagram }}<a href="{{ . }}" rel="nofollow"><i
-                        class="fa-brands fa-instagram"></i></a>{{ end }}
-            </td>
-            <td>{{ with .socialmedia.youtube }}<a href="{{ . }}" rel="nofollow"><i
-                        class="fa-brands fa-youtube"></i></a>{{ end }}</td>
-            <td>{{ with .socialmedia.linkedin }}<a href="{{ . }}" rel="nofollow"><i
-                        class="fa-brands fa-linkedin"></i></a>{{ end }}
-            </td>
-            <td>{{ with .socialmedia.tiktok }}<a href="{{ . }}" rel="nofollow"><i class="fa-brands fa-tiktok"></i></a>{{
-                end }}</td>
-        </tr>
-        {{ end }}
-        {{ end }}
-    </tbody>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Partei</th>
+      <th>Web</th>
+      <th>Mastodon</th>
+      <th>Twitter</th>
+      <th>Facebook</th>
+      <th>Instagram</th>
+      <th>YouTube</th>
+      <th>LinkedIn</th>
+      <th>TikTok</th>
+      <th>BlueSky</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ with index .Site.Data .File.ContentBaseName }} {{ range .abgeordnete }}
+    <tr>
+      <td>{{ .name }}</td>
+      <td>{{ .partei }}</td>
+      <td>
+        {{ with .socialmedia.web }}<a href="{{ . }}" rel="nofollow">{{ . }}</a
+        >{{ end }}
+      </td>
+      <td>
+        {{ with .socialmedia.mastodon }}<a href="{{ . }}" rel="nofollow"
+          ><i class="fa-brands fa-mastodon"></i></a
+        >{{ end }}
+      </td>
+      <td>
+        {{ with .socialmedia.twitter }}<a href="{{ . }}" rel="nofollow"
+          ><i class="fa-brands fa-twitter"></i></a
+        >{{ end }}
+      </td>
+      <td>
+        {{ with .socialmedia.facebook }}<a href="{{ . }}" rel="nofollow"
+          ><i class="fa-brands fa-facebook"></i></a
+        >{{ end }}
+      </td>
+      <td>
+        {{ with .socialmedia.instagram }}<a href="{{ . }}" rel="nofollow"
+          ><i class="fa-brands fa-instagram"></i></a
+        >{{ end }}
+      </td>
+      <td>
+        {{ with .socialmedia.youtube }}<a href="{{ . }}" rel="nofollow"
+          ><i class="fa-brands fa-youtube"></i></a
+        >{{ end }}
+      </td>
+      <td>
+        {{ with .socialmedia.linkedin }}<a href="{{ . }}" rel="nofollow"
+          ><i class="fa-brands fa-linkedin"></i></a
+        >{{ end }}
+      </td>
+      <td>
+        {{ with .socialmedia.tiktok }}<a href="{{ . }}" rel="nofollow"
+          ><i class="fa-brands fa-tiktok"></i></a
+        >{{ end }}
+      </td>
+      <td>
+        {{ with .socialmedia.bluesky }}<a href="{{ . }}" rel="nofollow"
+          ><i class="fa-solid fa-square"></i></a
+        >{{ end }}
+      </td>
+    </tr>
+    {{ end }} {{ end }}
+  </tbody>
 </table>
 {{ end }}

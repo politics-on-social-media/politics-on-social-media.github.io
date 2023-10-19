@@ -9,6 +9,8 @@
     {{- $fontawesome := resources.Get "npm/@fortawesome/fontawesome-free/css/all.css" -}}
     {{- $fa_brands := resources.Get "npm/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2" -}}
     <!--{{ $fa_brands.RelPermalink }}-->
+    {{- $fa_solid := resources.Get "npm/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2" -}}
+    <!--{{ $fa_solid.RelPermalink }}-->
     <link rel="stylesheet" href="{{ $fontawesome.RelPermalink }}">
     {{ $github_corner_element := resources.Get "npm/github-corner-element/dist/github-corner-element.es.js" -}}
     <script type="module" src="{{ $github_corner_element.RelPermalink }}"></script>
