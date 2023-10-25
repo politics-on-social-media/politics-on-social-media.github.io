@@ -244,12 +244,16 @@ abgeordnete:
     partei: FDP
     socialmedia:
       web: https://www.peter-muenster.com
+      facebook: https://www.facebook.com/profile.php?id=100063801825566
   - name: Dr. Wunderlich, Claus
     partei: FDP
+    socialmedia:
+      facebook: https://www.facebook.com/claus.wunderlich.9
   - name: Gräfin v. Baudissin-Schmidt, Barbara
     partei: FDP
     socialmedia:
       twitter: https://twitter.com/BarbaraGrafin
+      facebook: https://www.facebook.com/fdpbaudissinschmidt
   - name: Dr. Weber, Klaus
     partei: DIE LINKE
   - name: Dorn, Hubert
