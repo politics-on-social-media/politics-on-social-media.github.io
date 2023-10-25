@@ -1,0 +1,276 @@
+socialmedia:
+  web: https://www.bezirk-oberbayern.de/Der-Bezirk-Oberbayern/Bezirkstag/
+  facebook: https://www.facebook.com/bezirkoberbayern
+  instagram: https://www.instagram.com/bezirkoberbayern/
+  youtube: https://www.youtube.com/channel/UCKK2bzHFgyyQ4QebJwM831A
+  linkedin: https://www.linkedin.com/company/bezirk-oberbayern
+  xing: https://www.xing.com/pages/bezirkoberbayern
+  tiktok: https://www.tiktok.com/@bezirkoberbayern
+abgeordnete:
+  - name: Schwarzenberger, Thomas
+    partei: CSU
+    socialmedia:
+      web: https://www.thomas-schwarzenberger.de
+      facebook: https://de-de.facebook.com/thomas.schwarzenberger.79
+  - name: Hainz, Birgit
+    partei: CSU
+  - name: Eichinger, Thomas
+    partei: CSU
+  - name: Steinberger, Friederike
+    partei: CSU
+  - name: Kuhn, Barbara
+    partei: CSU
+  - name: Hausberger, Claudia
+    partei: CSU
+  - name: Bertl, Alexandra
+    partei: CSU
+  - name: Schelle, Stefan
+    partei: CSU
+    socialmedia:
+      web: https://www.stefan-schelle.de
+      facebook: https://de-de.facebook.com/pages/Stefan-Schelle-1-B%C3%BCrgermeister-von-Oberhaching/202229299817358
+  - name: Gotz, Max
+    partei: CSU
+  - name: Hobmeier, Karin
+    partei: CSU
+    socialmedia:
+      web: https://www.karin-hobmeier.de
+      facebook: https://www.facebook.com/karin.hobmeier
+  - name: Schwab, Harald
+    partei: CSU
+    socialmedia:
+      web: http://schwab-harald.de
+  - name: Loferer, Marianne
+    partei: CSU
+  - name: von Löwis of Menar, Olaf
+    partei: CSU
+  - name: Eggerl, Mathias
+    partei: CSU
+    socialmedia:
+      web: https://matthias-eggerl.de
+      facebook: https://www.facebook.com/profile.php?id=100086353688327
+      instagram: https://www.instagram.com/matthias_eggerl_kandidat/
+  - name: Funke, Annemarie
+    partei: CSU
+    socialmedia:
+      web: https://www.annemarie-funke.de
+      facebook: https://www.facebook.com/Annemarie-Funke-181226072469890/
+  - name: Burgmaier, Stephanie
+    partei: CSU
+  - name: Off-Nesselhauf, Gabriele
+    partei: CSU
+    socialmedia:
+      web: https://www.off-nesselhauf.net
+      facebook: https://www.facebook.com/gaby.offnesselhauf
+  - name: Heimisch, Alexander
+    partei: CSU
+  - name: Dahms, Walentina
+    partei: CSU
+    socialmedia:
+      web: https://www.walentina-dahms.de
+      facebook: https://www.facebook.com/DAHMS.WALENTINA/
+      instagram: https://www.instagram.com/dahms.walentina/
+      linkedin: https://www.linkedin.com/in/walentina-dahms
+  - name: Hofmann, Christina
+    partei: CSU
+  - name: Wetzelsperger, Georg
+    partei: CSU
+  - name: Schindlmayr, Simon
+    partei: CSU
+  - name: Flössler, Fabian
+    partei: CSU
+    socialmedia:
+      instagram: https://www.instagram.com/fabianfloessler/
+  - name: Albat, Jan
+    partei: CSU
+    socialmedia:
+      instagram: https://www.instagram.com/jan_albat/
+  - name: Straßer, Max
+    partei: CSU
+  - name: Keßler, Martina
+    partei: CSU
+  - name: Kriegl, Gisela
+    partei: CSU
+  - name: Neubauer, Martina
+    partei: GRÜNE
+    socialmedia:
+      web: https://www.martina-neubauer.de
+      twitter: https://twitter.com/NeubauerMartina
+      facebook: https://www.facebook.com/landraetinstarnberg
+      instagram: https://www.instagram.com/martinaneubauer.lkr.starnberg
+  - name: Mesan, Susanne
+    partei: GRÜNE
+    socialmedia:
+      instagram: https://www.instagram.com/_susannesabina/
+  - name: Goldstein, Ulrike
+    partei: GRÜNE
+  - name: Kolić, Dardan
+    partei: GRÜNE
+    socialmedia:
+      linkedin: https://www.linkedin.com/in/dardan-koli%C4%87-76107963/
+  - name: Sturm, Erika
+    partei: GRÜNE
+    socialmedia:
+      facebook: https://www.facebook.com/erika.sturm.9465
+      instagram: https://www.instagram.com/erika.elisabeth.sturm/
+  - name: Dr. Stüber, Eckart
+    partei: GRÜNE
+    socialmedia:
+      facebook: https://www.facebook.com/eckart.stuber.7
+  - name: Ammer, Andreas
+    partei: GRÜNE
+  - name: Balidemaj, Delija
+    partei: GRÜNE
+    socialmedia:
+      facebook: https://www.facebook.com/delija.balidemaj
+      instagram: https://www.instagram.com/delibalidemaj/
+  - name: Siebler, Joachim
+    partei: GRÜNE
+    socialmedia:
+      web: https://joachim-siebler.de
+      facebook: https://www.facebook.com/joachimsiebler/
+      instagram: https://www.instagram.com/joachimsiebler/
+  - name: Vilgertshofer, Florina
+    partei: GRÜNE
+    socialmedia:
+      web: https://florina-vilgertshofer.de
+      instagram: https://www.instagram.com/finafinch/
+      facebook: https://www.facebook.com/minny.cooper.9
+  - name: Dr. Schwaiblmair, Frauke
+    partei: GRÜNE
+  - name: Wagner, Martin
+    partei: GRÜNE
+  - name: Voßeler, Andreas
+    partei: GRÜNE
+    socialmedia:
+      web: http://andreas-vosseler.de
+      facebook: https://www.facebook.com/Andreas.Vosseler.Stadtratskandidat/
+      instagram: https://www.instagram.com/
+  - name: Düdder, Kathrin
+    partei: GRÜNE
+    socialmedia:
+      instagram: https://www.instagram.com/kathrinduedder/
+  - name: Huber, Christian
+    partei: GRÜNE
+    socialmedia:
+      web: https://chrishuber.eu
+      facebook: https://www.facebook.com/christian.huber.984
+      instagram: https://www.instagram.com/chris.ffb
+  - name: Schneider, Rainer
+    partei: FREIE WÄHLER
+  - name: Hofer, Sepp
+    partei: FREIE WÄHLER
+  - name: Speer, Anton
+    partei: FREIE WÄHLER
+  - name: Dr. Schanderl, Michael
+    partei: FREIE WÄHLER
+  - name: Heigl, Marianne
+    partei: FREIE WÄHLER
+  - name: Specker, Konrad
+    partei: FREIE WÄHLER
+  - name: Grasser, Maria
+    partei: FREIE WÄHLER
+  - name: Bayer, Ludwig
+    partei: FREIE WÄHLER
+  - name: Haindl, Jürgen
+    partei: FREIE WÄHLER
+  - name: Dirl, Sonja
+    partei: FREIE WÄHLER
+  - name: Zeininger, Christian
+    partei: FREIE WÄHLER
+  - name: Stein, Barbara
+    partei: FREIE WÄHLER
+  - name: Droth, Susanne
+    partei: FREIE WÄHLER
+  - name: Wieser, Martin
+    partei: AfD
+  - name: Dierkes, Rene
+    partei: AfD
+    socialmedia:
+      facebook: https://www.facebook.com/ReneDierkesAfD/
+      instagram: https://www.instagram.com/ReneDierkesAfD
+      twitter: https://twitter.com/ReneDierkesAfD
+  - name: Demmel, Christian
+    partei: AfD
+    socialmedia:
+      web: https://www.christian-demmel.de
+  - name: Groß, Rainer
+    partei: AfD
+  - name: Lipp, Oskar
+    partei: AfD
+    socialmedia:
+      web: https://oskar-lipp.de
+      facebook: https://www.facebook.com/Oskar.Lipp.AfD
+      instagram: https://www.instagram.com/oskar_lipp_afd/
+      linkedin: http://www.linkedin.com/in/oskar-lipp
+  - name: Wächtler, Dirk
+    partei: AfD
+  - name: Federl, Alois
+    partei: AfD
+  - name: Musil, Thomas
+    partei: AfD
+  - name: Schulz, Manuela
+    partei: AfD
+  - name: Asam, Michael
+    partei: SPD
+  - name: Schachtl, Johanna
+    partei: SPD
+  - name: Hofmann, Irmgard
+    partei: SPD
+    socialmedia:
+      web: https://irmgard-hofmann.de/
+  - name: Hügenell, Helga
+    partei: SPD
+    socialmedia:
+      web: https://helga-huegenell.de
+      facebook: https://www.facebook.com/BezirksraetinHuegenellHelga
+      twitter: https://twitter.com/HHuegenell
+  - name: Bonigut, Matthias
+    partei: SPD
+    socialmedia:
+      web: https://matthias-bonigut.de
+      facebook: https://www.facebook.com/matthias.bonigut
+      twitter: https://twitter.com/BonigutM
+      instagram: https://www.instagram.com/matthiasbonigut
+  - name: Mickel, Andrea
+    partei: SPD
+    socialmedia:
+      web: https://andrea-mickel.de/
+  - name: Hörl, Christina
+    partei: SPD
+    socialmedia:
+      web: https://www.christinahoerl.de
+  - name: Münster, Peter
+    partei: FDP
+    socialmedia:
+      web: https://www.peter-muenster.com
+  - name: Dr. Wunderlich, Claus
+    partei: FDP
+  - name: Gräfin v. Baudissin-Schmidt, Barbara
+    partei: FDP
+    socialmedia:
+      twitter: https://twitter.com/BarbaraGrafin
+  - name: Dr. Weber, Klaus
+    partei: DIE LINKE
+  - name: Dorn, Hubert
+    partei: BP
+  - name: Huber, Andreas
+    partei: ÖDP
+  - name: Keil, Max
+    partei: ÖDP
+  - name: Skerlec, Oliver
+    partei: Die Partei
+  - name: Dr. Wittmann, Susanne
+    partei: Tierschutzpartei
+    socialmedia:
+      instagram: https://www.instagram.com/dr.susanne.wittmann/
+      facebook: https://www.facebook.com/TierrechteBayern
+  - name: Kaiser, Sabine
+    partei: dieBasis
+  - name: Nibbe, Jochen
+    partei: Volt
+    socialmedia:
+      twitter: https://twitter.com/jochennibbe
+      facebook: https://www.facebook.com/jochen.nibbe
+      instagram: https://www.instagram.com/jochennibbe/
+      youtube: https://www.youtube.com/channel/UCeuXdp-WtknujLCKW7ljdZw
