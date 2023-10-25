@@ -275,6 +275,7 @@ abgeordnete:
 - name: Feichtmeier, Christiane
   partei: SPD
   socialmedia:
+    mastodon: https://muenchen.social/@feichtmeierin
     web: https://www.christiane-feichtmeier.de
     twitter: https://twitter.com/christl_munich
     facebook: https://www.facebook.com/kern.christiane/
