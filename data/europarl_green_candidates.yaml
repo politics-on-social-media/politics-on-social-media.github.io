@@ -1,0 +1,224 @@
+socialmedia: 
+  foo: bar
+abgeordnete:
+  - name: TERRY REINTKE	
+    socialmedia:
+      web: https://terryreintke.eu/
+      instagram: https://www.instagram.com/terry_reintke/?hl=de
+      facebook: https://www.facebook.com/terry.reintke
+      twitter: https://twitter.com/TerryReintke
+      bluesky: https://bsky.app/profile/terryreintke.bsky.social
+  - name: Sergey Lagodinsky
+    socialmedia:
+      web: https://lagodinsky.de/
+      instagram: https://www.instagram.com/slagodinsky/
+      facebook: https://de-de.facebook.com/slagodinsky/
+      twitter: https://twitter.com/SLagodinsky
+      mastodon: https://gruene.social/@SLagodinsky
+  - name: Anna Cavazzini
+    socialmedia:
+      web: https://www.annacavazzini.eu/
+      instagram: https://www.instagram.com/anna.cavazzini/
+      facebook: https://www.facebook.com/anna.cavazzini.9
+      twitter: https://twitter.com/anna_cavazzini
+      mastodon: https://gruene.social/@anna_cavazzini
+      bluesky: https://bsky.app/profile/annacavazzini.bsky.social
+  - name: Micha Bloss	
+    socialmedia:
+      web: https://michaelbloss.de/
+      instagram: https://www.instagram.com/michabloss/
+      twitter: https://twitter.com/micha_bloss
+      bluesky: https://bsky.app/profile/michabloss.bsky.social
+  - name: Hannah Neumann	
+    socialmedia:
+      web: https://hannahneumann.eu/
+      instagram: https://www.instagram.com/hneumannmep/
+      facebook: https://www.facebook.com/HNeumannMEP/
+      twitter: https://twitter.com/HNeumannMEP
+      bluesky: https://bsky.app/profile/hneumannmep.bsky.social
+  - name: Martin Häusling	
+    socialmedia:
+      web: https://www.martin-haeusling.eu/
+      instagram: https://www.instagram.com/martin_haeusling/
+      facebook: https://www.facebook.com/martin.haeusling/
+      twitter: https://twitter.com/MartinHaeusling
+      bluesky: https://bsky.app/profile/martinhaeusling.bsky.social
+  - name: Katrin Langensiepen	
+    socialmedia:
+      web: https://www.katrin-langensiepen.eu/
+      instagram: https://www.instagram.com/katrinlangensiepen
+      facebook: https://www.facebook.com/KLangensiepen
+      twitter: https://twitter.com/k_langensiepen
+  - name: Erik Marquardt	
+    socialmedia:
+      web: https://erik-marquardt.de/
+      instagram: https://www.instagram.com/erikmarquardt/
+      facebook: https://www.facebook.com/ErikMarquardtde
+      twitter: https://twitter.com/ErikMarquardt
+  - name: Jutta Paulus	@JuttaPaulus@mastodon.online
+    socialmedia:
+      web: https://www.jutta-paulus.de/
+      instagram: https://www.instagram.com/jutta.paulus/
+      facebook: https://www.facebook.com/JuttaPaulusRLP
+      twitter: https://twitter.com/JuttaPaulusRLP
+      bluesky: https://bsky.app/profile/juttapaulus.bsky.social
+      mastodon: https://mastodon.online/@JuttaPaulus
+  - name: Daniel Freund
+    socialmedia:
+      web: https://www.danielfreund.eu/
+      instagram: https://www.instagram.com/europafreund
+      facebook: https://www.facebook.com/EuropaDaniel/
+      twitter: https://twitter.com/daniel_freund
+      mastodon: https://mastodon.world/@daniel_freund
+  - name: Alexandra Geese
+    socialmedia:
+      web: https://www.alexandrageese.eu/
+      instagram: https://www.instagram.com/alexandrageese/
+      facebook: https://www.facebook.com/alexandrageese/
+      twitter: https://twitter.com/AlexandraGeese
+      mastodon: https://bonn.social/@alexandrageese
+  - name: Rasmus Andresen
+    socialmedia:
+      web: https://rasmus-andresen.eu/
+      instagram: https://www.instagram.com/gruenrasmus/
+      facebook: https://www.facebook.com/AndresenRasmus
+      twitter: https://twitter.com/RasmusAndresen
+      mastodon: https://gruene.social/@RasmusAndresen
+  - name: Anna Peters	
+    socialmedia:
+      instagram: https://www.instagram.com/annarmpeters/
+      facebook: https://www.facebook.com/anna.peters
+      twitter: https://twitter.com/annarmpeters
+  - name: Niklas Nienaß	
+    socialmedia:
+      web: https://niklas-nienass.eu/
+      instagram: https://www.instagram.com/niklasnienass
+      facebook: https://www.facebook.com/niklasnienass
+      twitter: https://twitter.com/nnienass
+  - name: Viola von Cramon	
+    socialmedia:
+      web: https://violavoncramon.eu/
+      instagram: https://www.instagram.com/violavoncramon/
+      facebook: https://www.facebook.com/Viola4Europe
+      twitter: https://twitter.com/ViolavonCramon
+  - name: Andie Wörle	
+    socialmedia:
+      web: https://www.andiewoerle.eu/
+      instagram: https://www.instagram.com/awoerle/
+      facebook: https://www.facebook.com/andie.woerle
+      twitter: https://twitter.com/andiewoerle
+  - name: Anna Deparnay-Grunenberg	
+    socialmedia:
+      web: https://anna.deparnay-grunenberg.eu/
+      instagram: https://www.instagram.com/annadeparnaygrunenberg/
+      facebook: https://www.facebook.com/AnnaDeparnayGrunenberg
+      twitter: https://twitter.com/AnnaDeparnay
+      mastodon: https://freiburg.social/@AnnaDeparnayGrunenberg
+  - name: Jan-Denis Wulff	
+    socialmedia:
+      web: https://www.jandeniswulff.de/
+      instagram: https://www.instagram.com/jandenis.wulff/
+      twitter: https://twitter.com/JanDenis_Wulff
+      mastodon: https://mastodon.social/@JanDenisWulff
+  - name: Janina Singh	
+    socialmedia:
+      web: https://www.janinasingh.eu/
+      instagram: https://www.instagram.com/janinamala/
+      facebook: https://www.facebook.com/janinamalasingh
+  - name: Viviane Triems	
+    socialmedia:
+      web: https://www.vivianetriems.de/
+      instagram: https://www.instagram.com/viviane_triems/
+      twitter: https://twitter.com/VTriems
+  - name: Rosa Domm 	
+    socialmedia:
+      instagram: https://www.instagram.com/rosa_domm/
+      twitter: https://twitter.com/rosadomm_
+  - name: Maximilian Retzer 	
+    socialmedia:
+      instagram: https://www.instagram.com/maximilianretzer/
+      facebook: https://www.facebook.com/maximilianretzer
+      twitter: https://twitter.com/max_retzer
+      bluesky: https://bsky.app/profile/maximilianretzer.bsky.social
+      tiktok: https://www.tiktok.com/@maximilianretzer
+  - name: Alexandra Werwath 	
+    socialmedia:
+      instagram: https://www.instagram.com/alexwerwath/
+      twitter: https://twitter.com/AlexWerwath
+      bluesky: https://bsky.app/profile/alexwerwath.bsky.social
+  - name: Jürgen Kretz 	@JuergenKretz@gruene.social 
+    socialmedia:
+      web: https://juergen-kretz.eu/
+      instagram: https://www.instagram.com/juergen.kretz/
+      facebook: https://www.facebook.com/jurgen.kr
+      twitter: https://twitter.com/@JuergenKretz
+      mastodon: https://gruene.social/@JuergenKretz
+      tiktok: https://www.tiktok.com/@juergenkretz
+  - name: Thea-Helene Gieroska 	
+    socialmedia:
+      web: https://www.gieroska.eu/
+      instagram: https://instagram.com/helenethea_green
+      twitter: https://twitter.com/HeleneThea
+      bluesky: https://bsky.app/profile/gieroska.eu
+      tiktok: https://www.tiktok.com/@helenethea_green
+  - name: Philipp Mathmann 	
+    socialmedia:
+      web: https://philipp-mathmann.eu/
+      instagram: https://instagram.com/philipp_mathmann_official
+      facebook: https://www.facebook.com/philipp.mathmann/
+  - name: Laura Kroschewski 	
+    socialmedia:
+      instagram: https://www.instagram.com/laura_kroschewski
+      twitter: https://twitter.com/laurakroschewsk
+  - name: Can Diego Aru
+  - name: Corinna Balkow
+    socialmedia:
+      web: https://www.corinnabalkow.de/
+      mastodon: https://gruene.social/@coba
+  - name: Dirk-Claas Ullrich 	
+    socialmedia:
+      web: https://www.dculrich.eu/
+      twitter: https://twitter.com/dc_ulrich
+  - name: Sarah Pscherer 	
+    socialmedia:
+      web: https://sarahpscherer.eu/
+      instagram: https://www.instagram.com/sarah_pscherer/
+      bluesky: https://bsky.app/profile/sarahpscherer.bsky.social
+  - name: Arthur Eichin 	
+    socialmedia:
+      instagram: https://www.instagram.com/artureichin/
+  - name: Saskia Zwilling 	
+    socialmedia:
+      instagram: https://www.instagram.com/saskiazwilling_gruene/
+  - name: Emil Schenkyr 	
+    socialmedia:
+      web: https://schenkyr.eu/links
+      instagram: https://www.instagram.com/schenkyr/
+      bluesky: https://bsky.app/profile/schenkyr.bsky.social
+  - name: Liliane Viola Pollmann 	
+    socialmedia:
+      linkedin: https://www.linkedin.com/in/liliane-viola-pollmann-48622525a
+      instagram: https://instagram.com/frl.bluetenstaub
+      facebook: https://www.facebook.com/frl.bluetenstaub
+      twitter: https://twitter.com/LilianeViola
+  - name: Dave Daniel Pador Sundermayer 	
+    socialmedia:
+      web: http://davedaniel.eu/
+      instagram: https://www.instagram.com/sanhelios1981/
+      facebook: https://www.facebook.com/dave.pador.sundermeyer
+      twitter: https://twitter.com/pador_dave
+      bluesky: https://bsky.app/profile/davedaniel.eu
+  - name:  Isabell Christin Welle 	
+    socialmedia:
+      instagram: https://www.instagram.com/isabell_welle/
+      twitter: https://x.com/WelleGrune
+  - name: Heiner Klemp 	
+    socialmedia:
+      web: https://heinerklemp.de/
+      instagram: https://www.instagram.com/heinerklemp_mdl/
+      facebook: https://www.facebook.com/heiner.klemp.mdl
+      twitter: https://twitter.com/HeinerOburg
+  - name: Michaela Reimann
+  - name: Alexander Rhode  	
+    socialmedia:
+      web: https://alexrohde.de/
