@@ -632,6 +632,11 @@ abgeordnete:
     web: http://www.heike-brehmer.de
 - name: Breilmann, Michael
   partei: CDU/CSU
+  socialmedia:
+    web: https://www.michael-breilmann.de
+    facebook: https://www.facebook.com/mbreilmann
+    twitter: https://twitter.com/m_breilmann
+    instagram: https://www.instagram.com/mbreilmann/
 - name: Breymaier, Leni
   partei: SPD
   socialmedia:
@@ -655,6 +660,10 @@ abgeordnete:
     web: https://www.carsten-brodesser.de
 - name: Bröhr, Dr. Marlon
   partei: CDU/CSU
+  socialmedia:
+    web: https://www.marlonbroehr.info
+    facebook: https://www.facebook.com/pg/MarlonBroehr/posts/
+    instagram: https://www.instagram.com/marlonbroehr/
 - name: Brugger, Agnieszka
   partei: Bündnis 90/Die Grünen
   socialmedia:
