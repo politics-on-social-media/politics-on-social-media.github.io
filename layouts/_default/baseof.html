@@ -12,8 +12,16 @@
     {{- $fa_solid := resources.Get "npm/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2" -}}
     <!--{{ $fa_solid.RelPermalink }}-->
     <link rel="stylesheet" href="{{ $fontawesome.RelPermalink }}">
+    {{ $bootstrap_table := resources.Get "npm/bootstrap-table/dist/bootstrap-table.min.css" -}}
+    <link href="{{ $bootstrap_table.RelPermalink }}" rel="stylesheet">
     {{ $github_corner_element := resources.Get "npm/github-corner-element/dist/github-corner-element.es.js" -}}
     <script type="module" src="{{ $github_corner_element.RelPermalink }}"></script>
+    {{ $jquery := resources.Get "npm/jquery/dist/jquery.min.js" -}}
+    <script src="{{ $jquery.RelPermalink }}"></script>
+    {{ $bootstrap_js := resources.Get "npm/bootstrap/js/index.esm.js" -}}
+    <script src="{{ $bootstrap_js.RelPermalink }}"></script>
+    {{ $bootstrap_table_js := resources.Get "npm/bootstrap-table/dist/bootstrap-table.min.js" -}}
+    <script src="{{ $bootstrap_table_js.RelPermalink }}"></script>
 </head>
 
 <body>
