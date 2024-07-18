@@ -1,11 +1,3814 @@
-socialmedia: 
-  web: https://www.europarl.europa.eu/portal/de
+abgeordnete:
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Mika AALTOLA
+  partei: Kansallinen Kokoomus
+  socialmedia: 
+    twitter: https://x.com/mikaaaltola
+  staat: Finnland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Maravillas ABADÍA JOVER
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Magdalena ADAMOWICZ
+  partei: Independent
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Georgios AFTIAS
+  partei: Nea Demokratia
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion Renew Europe
+  name: Oihane AGIRREGOITIA MARTÍNEZ
+  partei: Partido Nacionalista Vasco
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Peter AGIUS
+  partei: Partit Nazzjonalista
+  socialmedia: {}
+  staat: Malta
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Alex AGIUS SALIBA
+  partei: Partit Laburista
+  socialmedia: {}
+  staat: Malta
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Galato ALEXANDRAKI
+  partei: Elliniki Lusi-Greek Solution
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion Renew Europe
+  name: Grégory ALLIONE
+  partei: Renaissance
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Renew Europe
+  name: Abir AL-SAHLANI
+  partei: Centerpartiet
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktionslos
+  name: Nikolaos ANADIOTIS
+  partei: Dimokratikó Patriotikó Kínima
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Christine ANDERSON
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Li ANDERSSON
+  partei: Vasemmistoliitto
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Rasmus ANDRESEN
+  partei: Bündnis 90/Die Grünen
+  socialmedia:
+    facebook: https://www.facebook.com/AndresenRasmus
+    instagram: https://www.instagram.com/gruenrasmus/
+    mastodon: https://gruene.social/@RasmusAndresen
+    twitter: https://twitter.com/RasmusAndresen
+    web: https://rasmus-andresen.eu/
+  staat: Deutschland
+- fraktion: Fraktion Renew Europe
+  name: Barry ANDREWS
+  partei: Fianna Fáil Party
+  socialmedia: {}
+  staat: Irland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Vytenis Povilas ANDRIUKAITIS
+  partei: Lietuvos socialdemokratų partija
+  socialmedia: {}
+  staat: Litauen
+- fraktion: Fraktion Patrioten für Europa
+  name: Mathilde ANDROUËT
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Marc ANGEL
+  partei: Parti ouvrier socialiste luxembourgeois
+  socialmedia: {}
+  staat: Luxemburg
+- fraktion: Fraktion Patrioten für Europa
+  name: Gerolf ANNEMANS
+  partei: Vlaams Belang
+  socialmedia: {}
+  staat: Belgien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Lucia ANNUNZIATA
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Giuseppe ANTOCI
+  partei: Movimento 5 Stelle
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Pablo ARIAS ECHEVERRÍA
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Pascal ARIMONT
+  partei: Christlich Soziale Partei
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Bartosz ARŁUKOWICZ
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Sakis ARNAOUTOGLOU
+  partei: PASOK-KINAL
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Anja ARNDT
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Konstantinos ARVANITIS
+  partei: Coalition of the Radical Left
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Jaume ASENS LLODRÀ
+  partei: Movimiento Sumar
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Francisco ASSIS
+  partei: Partido Socialista
+  socialmedia: {}
+  staat: Portugal
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Daniel ATTARD
+  partei: Partit Laburista
+  socialmedia: {}
+  staat: Malta
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Manon AUBRY
+  partei: La France Insoumise
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: René AUST
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Renew Europe
+  name: Petras AUŠTREVIČIUS
+  partei: Liberalų sąjūdis
+  socialmedia: {}
+  staat: Litauen
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Adrian-George AXINIA
+  partei: Alianța pentru Unirea Românilor
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion Renew Europe
+  name: Malik AZMANI
+  partei: Volkspartij voor Vrijheid en Democratie
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Thomas BAJADA
+  partei: Partit Laburista
+  socialmedia: {}
+  staat: Malta
+- fraktion: Fraktion Renew Europe
+  name: Jeannette BALJEU
+  partei: Volkspartij voor Vrijheid en Democratie
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Laura BALLARÍN CEREZA
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Patrioten für Europa
+  name: Jordan BARDELLA
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Katarina BARLEY
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Renew Europe
+  name: Dan BARNA
+  partei: Alianța Dreapta Unită
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Pernando BARRENA ARZA
+  partei: EH BILDU
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Stephen Nikola BARTULICA
+  partei: Domovinski pokret
+  socialmedia: {}
+  staat: Kroatien
+- fraktion: Fraktion Patrioten für Europa
+  name: Nikola BARTŮŠEK
+  partei: Přísaha
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Arno BAUSEMER
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Nicolas BAY
+  partei: Divers droite
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Wouter BEKE
+  partei: Christen-Democratisch & Vlaams
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Fredis BELERIS
+  partei: Nea Demokratia
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: François-Xavier BELLAMY
+  partei: Les Républicains
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Adrian-Dragoş BENEA
+  partei: Partidul Social Democrat
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Brando BENIFEI
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Isabel BENJUMEA BENJUMEA
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktionslos
+  name: Monika BEŇOVÁ
+  partei: SMER-Sociálna demokracia
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Hildegard BENTELE
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Tom BERENDSEN
+  partei: Christen Democratisch Appèl
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Stefan BERGER
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktionslos
+  name: Sibylle BERG
+  partei: Die PARTEI
+  socialmedia: 
+    mastodon: https://digitalcourage.social/@SibylleBerg
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Sergio BERLATO
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Alexander BERNHUBER
+  partei: Österreichische Volkspartei
+  socialmedia: {}
+  staat: Österreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Robert BIEDROŃ
+  partei: Nowa Lewica
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Adam BIELAN
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Gabriele BISCHOFF
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktionslos
+  name: Ľuboš BLAHA
+  partei: SMER-Sociálna demokracia
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Vilija BLINKEVIČIŪTĖ
+  partei: Lietuvos socialdemokratų partija
+  socialmedia: {}
+  staat: Litauen
+- fraktion: Fraktion Patrioten für Europa
+  name: Rachel BLOM
+  partei: Partij voor de Vrijheid
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Michael BLOSS
+  partei: Bündnis 90/Die Grünen
+  socialmedia:
+    bluesky: https://bsky.app/profile/michabloss.bsky.social
+    instagram: https://www.instagram.com/michabloss/
+    twitter: https://twitter.com/micha_bloss
+    web: https://michaelbloss.de/
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Tobiasz BOCHEŃSKI
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Damian BOESELAGER
+  partei: Volt
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Ioan-Rareş BOGDAN
+  partei: Partidul Naţional Liberal
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Stefano BONACCINI
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Patrioten für Europa
+  name: Barbara BONTE
+  partei: Vlaams Belang
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion Patrioten für Europa
+  name: Paolo BORCHIA
+  partei: Lega
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Patrioten für Europa
+  name: Mireia BORRÁS PABÓN
+  partei: VOX
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Zsuzsanna BORVENDÉG
+  partei: Mi Hazánk Mozgalom
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Biljana BORZAN
+  partei: Socijaldemokratska partija Hrvatske
+  socialmedia: {}
+  staat: Kroatien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Gordan BOSANAC
+  partei: Možemo!
+  socialmedia: {}
+  staat: Kroatien
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Irmhild BOSSDORF
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Renew Europe
+  name: Stine BOSSE
+  partei: MODERATERNE
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Marc BOTENGA
+  partei: Parti du Travail de Belgique
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion Renew Europe
+  name: Gilles BOYER
+  partei: Horizons
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Lynn BOYLAN
+  partei: Sinn Féin
+  socialmedia: {}
+  staat: Irland
+- fraktion: Fraktion Renew Europe
+  name: Helmut BRANDSTÄTTER
+  partei: NEOS – Das Neue Österreich
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion Patrioten für Europa
+  name: Marie-Luce BRASIER-CLAIN
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktionslos
+  name: Grzegorz BRAUN
+  partei: Konfederacja Korony Polskiej
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Krzysztof BREJZA
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Saskia BRICMONT
+  partei: Ecologistes Confédérés pour l'Organisation de Luttes Originales
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Nikolina BRNJAC
+  partei: Hrvatska demokratska zajednica
+  socialmedia: {}
+  staat: Kroatien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Joachim Stanisław BRUDZIŃSKI
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktionslos
+  name: Anna BRYŁKA
+  partei: Konfederacja Wolność i Niepodległość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Markus BUCHHEIT
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktionslos
+  name: Tomasz BUCZEK
+  partei: Konfederacja Wolność i Niepodległość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Daniel BUDA
+  partei: Partidul Naţional Liberal
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Waldemar BUDA
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Borys BUDKA
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Sebastião BUGALHO
+  partei: Independent
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Andrzej BUŁA
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Udo BULLMANN
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Delara BURKHARDT
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Patrioten für Europa
+  name: Jorge BUXADÉ VILLALBA
+  partei: VOX
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Petr BYSTRON
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Patrioten für Europa
+  name: Jaroslav BŽOCH
+  partei: ANO 2011
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Mélissa CAMARA
+  partei: Les Écologistes – Europe Écologie Les Verts
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Renew Europe
+  name: Pascal CANFIN
+  partei: Renaissance
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Nina CARBERRY
+  partei: Fine Gael Party
+  socialmedia: {}
+  staat: Irland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Gheorghe CÂRCIU
+  partei: Partidul Social Democrat
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Damien CARÊME
+  partei: La France Insoumise
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: David CASA
+  partei: Partit Nazzjonalista
+  socialmedia: {}
+  staat: Malta
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Daniel CASPARY
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Renew Europe
+  name: Benoit CASSART
+  partei: Mouvement Réformateur
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Laurent CASTILLO
+  partei: Les Républicains
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Pilar DEL CASTILLO VERA
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Anna CAVAZZINI
+  partei: Bündnis 90/Die Grünen
+  socialmedia:
+    bluesky: https://bsky.app/profile/annacavazzini.bsky.social
+    facebook: https://www.facebook.com/anna.cavazzini.9
+    instagram: https://www.instagram.com/anna.cavazzini/
+    mastodon: https://gruene.social/@anna_cavazzini
+    twitter: https://twitter.com/anna_cavazzini
+    web: https://www.annacavazzini.eu/
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Stefano CAVEDAGNA
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Patrioten für Europa
+  name: Susanna CECCARDI
+  partei: Lega
+  socialmedia: {}
+  staat: Italien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: José CEPEDA
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Estelle CEULEMANS
+  partei: Parti Socialiste
+  socialmedia: {}
+  staat: Belgien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Mohammed CHAHIM
+  partei: Partij van de Arbeid
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Leila CHAIBI
+  partei: La France Insoumise
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Renew Europe
+  name: Olivier CHASTEL
+  partei: Mouvement Réformateur
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Caterina CHINNICI
+  partei: Forza Italia
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Renew Europe
+  name: Asger CHRISTENSEN
+  partei: Venstre, Danmarks Liberale Parti
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Carlo CICCIOLI
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Renew Europe
+  name: Veronika CIFROVÁ OSTRIHOŇOVÁ
+  partei: Independent
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Alessandro CIRIANI
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Patrioten für Europa
+  name: Anna Maria CISINT
+  partei: Lega
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Per CLAUSEN
+  partei: Enhedslisten
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Christophe CLERGEAU
+  partei: Parti socialiste
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: David CORMAND
+  partei: Europe Écologie
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Annalisa CORRADO
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Vivien COSTANZO
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Renew Europe
+  name: João COTRIM DE FIGUEIREDO
+  partei: Iniciativa Liberal
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion Renew Europe
+  name: Barry COWEN
+  partei: Fianna Fáil Party
+  socialmedia: {}
+  staat: Irland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Tobias CREMER
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Carmen CRESPO DÍAZ
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Giovanni CROSETTO
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Paulo CUNHA
+  partei: Partido Social Democrata
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Henrik DAHL
+  partei: Liberal Alliance
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Johan DANIELSSON
+  partei: Arbetarepartiet- Socialdemokraterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion Patrioten für Europa
+  name: Marie DAUCHY
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Dóra DÁVID
+  partei: Tisztelet és Szabadság Párt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Ivan DAVID
+  partei: Svoboda a přímá demokracie
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Antonio DECARO
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Raúl DE LA HOZ QUINTANO
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Danilo DELLA VALLE
+  partei: Movimento 5 Stelle
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Patrioten für Europa
+  name: Valérie DELOGE
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktionslos
+  name: Fabio DE MASI
+  partei: Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Salvatore DE MEO
+  partei: Forza Italia
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Özlem DEMIREL
+  partei: DIE LINKE.
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Patrioten für Europa
+  name: Tamás DEUTSCH
+  partei: Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion Renew Europe
+  name: Valérie DEVAUX
+  partei: Union des démocrates et indépendants
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Adnan DIBRANI
+  partei: Arbetarepartiet- Socialdemokraterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion Patrioten für Europa
+  name: Ton DIEPEVEEN
+  partei: Partij voor de Vrijheid
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion Patrioten für Europa
+  name: Elisabeth DIERINGER
+  partei: Freiheitliche Partei Österreichs
+  socialmedia: {}
+  staat: Österreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Vasile DÎNCU
+  partei: Partidul Social Democrat
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Elio DI RUPO
+  partei: Parti Socialiste
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion Patrioten für Europa
+  name: Mélanie DISDIER
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Klára DOBREV
+  partei: Demokratikus Koalíció
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Regina DOHERTY
+  partei: Fine Gael Party
+  socialmedia: {}
+  staat: Irland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Christian DOLESCHAL
+  partei: Christlich-Soziale Union in Bayern e.V.
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Paulo DO NASCIMENTO CABRAL
+  partei: Aliança Democrática
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Elena DONAZZAN
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Herbert DORFMANN
+  partei: Südtiroler Volkspartei
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Patrioten für Europa
+  name: Klara DOSTALOVA
+  partei: ANO 2011
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktionslos
+  name: Ondřej DOSTÁL
+  partei: Independent
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Siegbert Frank DROESE
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Lena DÜPONT
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Patrioten für Europa
+  name: Gaëtan DUSSAUSAYE
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Michał DWORCZYK
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Matthias ECKE
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Christian EHLER
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: 
+    web: https://ehler.eu
+  staat: Deutschland
+- fraktion: Fraktion Patrioten für Europa
+  name: Marieke EHLERS
+  partei: Partij voor de Vrijheid
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Bas EICKHOUT
+  partei: GroenLinks
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Sofie ERIKSSON
+  partei: Arbetarepartiet- Socialdemokraterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Dick ERIXON
+  partei: Sverigedemokraterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion Renew Europe
+  name: Engin EROGLU
+  partei: Freie Wähler
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Rosa ESTARÀS FERRAGUT
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Sebastian EVERDING
+  partei: Partei Mensch Umwelt Tierschutz
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Alma EZCURRA ALMANSA
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Gheorghe FALCĂ
+  partei: Partidul Naţional Liberal
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Marco FALCONE
+  partei: Forza Italia
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Nikolas FARANTOURIS
+  partei: Coalition of the Radical Left
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion Renew Europe
+  name: Laurence FARRENG
+  partei: Mouvement Démocrate
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Jan FARSKÝ
+  partei: Starostové a nezávisli
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Markus FERBER
+  partei: Christlich-Soziale Union in Bayern e.V.
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Patrioten für Europa
+  name: Viktória FERENC
+  partei: Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Jonás FERNÁNDEZ
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Carlo FIDANZA
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Pietro FIOCCHI
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Gabriela FIREA
+  partei: Partidul Social Democrat
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktionslos
+  name: Ruth FIRMENICH
+  partei: Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Claire FITA
+  partei: Parti socialiste
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Luke Ming FLANAGAN
+  partei: Independent
+  socialmedia: {}
+  staat: Irland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Loucas FOURLAS
+  partei: Democratic Rally
+  socialmedia: {}
+  staat: Zypern
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Emma FOURREAU
+  partei: La France Insoumise
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Emmanouil FRAGKOS
+  partei: Elliniki Lusi-Greek Solution
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Daniel FREUND
+  partei: Bündnis 90/Die Grünen
+  socialmedia:
+    facebook: https://www.facebook.com/EuropaDaniel/
+    instagram: https://www.instagram.com/europafreund
+    mastodon: https://mastodon.world/@daniel_freund
+    twitter: https://twitter.com/daniel_freund
+    web: https://www.danielfreund.eu/
+  staat: Deutschland
+- fraktion: Fraktion Patrioten für Europa
+  name: Anne-Sophie FRIGOUT
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Renew Europe
+  name: Sigrid FRIIS
+  partei: Det Radikale Venstre
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Heléne FRITZON
+  partei: Arbetarepartiet- Socialdemokraterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Tomasz FROELICH
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Niels FUGLSANG
+  partei: Socialdemokratiet
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Kathleen FUNCHION
+  partei: Sinn Féin
+  socialmedia: {}
+  staat: Irland
+- fraktion: Fraktion Patrioten für Europa
+  name: Angéline FURET
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Mario FURORE
+  partei: Movimento 5 Stelle
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Michael GAHLER
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: 
+    web: https://www.michael-gahler.eu
+  staat: Deutschland
+- fraktion: Fraktion Patrioten für Europa
+  name: Kinga GÁL
+  partei: Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Estrella GALÁN
+  partei: Movimiento Sumar
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Lina GÁLVEZ
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Alberico GAMBINO
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Iratxe GARCÍA PÉREZ
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Renew Europe
+  name: Raquel GARCÍA HERMIDA-VAN DER WALLE
+  partei: Democraten 66
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion Patrioten für Europa
+  name: Jean-Paul GARRAUD
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Kamila GASIUK-PIHOWICZ
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Geadis GEADI
+  partei: Εθνικό Λαϊκό Μέτωπο
+  socialmedia: {}
+  staat: Zypern
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Hanna GEDIN
+  partei: Vänsterpartiet
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Alexandra GEESE
+  partei: Bündnis 90/Die Grünen
+  socialmedia:
+    facebook: https://www.facebook.com/alexandrageese/
+    instagram: https://www.instagram.com/alexandrageese/
+    mastodon: https://bonn.social/@alexandrageese
+    twitter: https://twitter.com/AlexandraGeese
+    web: https://www.alexandrageese.eu/
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Jens GEIER
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktionslos
+  name: Thomas GEISEL
+  partei: Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Chiara GEMMA
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Giorgos GEORGIOU
+  partei: Progressive Party of Working People - Left - New Forces
+  socialmedia: {}
+  staat: Zypern
+- fraktion: Fraktion Renew Europe
+  name: Gerben-Jan GERBRANDY
+  partei: Democraten 66
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Jean-Marc GERMAIN
+  partei: Parti socialiste
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Gabriella GERZSENYI
+  partei: Tisztelet és Szabadság Párt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Niels GEUKING
+  partei: Familien-Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Jens GIESEKE
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: 
+    web: https://jens-gieseke.de
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Borja GIMÉNEZ LARRAZ
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Patrioten für Europa
+  name: Juan Carlos GIRAUTA VIDAL
+  partei: VOX
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Sunčana GLAVAK
+  partei: Hrvatska demokratska zajednica
+  socialmedia: {}
+  staat: Kroatien
+- fraktion: Fraktion Renew Europe
+  name: Andreas GLÜCK
+  partei: Freie Demokratische Partei
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Raphaël GLUCKSMANN
+  partei: Place publique
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Renew Europe
+  name: Charles GOERENS
+  partei: Parti démocratique
+  socialmedia: {}
+  staat: Luxemburg
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Christophe GOMART
+  partei: Les Républicains
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Isilda GOMES
+  partei: Partido Socialista
+  socialmedia: {}
+  staat: Portugal
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Sandra GÓMEZ LÓPEZ
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Bruno GONÇALVES
+  partei: Partido Socialista
+  socialmedia: {}
+  staat: Portugal
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Sérgio GONÇALVES
+  partei: Partido Socialista
+  socialmedia: {}
+  staat: Portugal
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Nicolás GONZÁLEZ CASARES
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Esteban GONZÁLEZ PONS
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Giorgio GORI
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Małgorzata GOSIEWSKA
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Dirk GOTINK
+  partei: Nieuw Sociaal Contract
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion Renew Europe
+  name: Sandro GOZI
+  partei: Mouvement Démocrate
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Maria GRAPINI
+  partei: Partidul Social Democrat
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Petras GRAŽULIS
+  partei: Tautos ir teisingumo sąjunga
+  socialmedia: {}
+  staat: Litauen
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Markéta GREGOROVÁ
+  partei: PIRÁTI
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Branko GRIMS
+  partei: Slovenska demokratska stranka
+  socialmedia: {}
+  staat: Slowenien
+- fraktion: Fraktion Patrioten für Europa
+  name: Catherine GRISET
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Renew Europe
+  name: Bart GROOTHUIS
+  partei: Volkspartij voor Vrijheid en Democratie
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Elisabeth GROSSMANN
+  partei: Sozialdemokratische Partei Österreichs
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion Renew Europe
+  name: Christophe GRUDLER
+  partei: Mouvement Démocrate
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Elisabetta GUALMINI
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Cristina GUARDA
+  partei: Europa Verde
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Renew Europe
+  name: Bernard GUETTA
+  partei: Sans parti
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Maria GUZENINA
+  partei: "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska\n     \
+    \       Parti"
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktion Patrioten für Europa
+  name: Balázs GYŐRFFY
+  partei: Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion Patrioten für Europa
+  name: Enikő GYŐRI
+  partei: Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion Patrioten für Europa
+  name: András GYÜRK
+  partei: Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Michalis HADJIPANTELA
+  partei: Democratic Rally
+  socialmedia: {}
+  staat: Zypern
+- fraktion: Fraktion Renew Europe
+  name: Svenja HAHN
+  partei: Freie Demokratische Partei
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Patrioten für Europa
+  name: Roman HAIDER
+  partei: Freiheitliche Partei Österreichs
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Andrzej HALICKI
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Christophe HANSEN
+  partei: Parti chrétien social luxembourgeois
+  socialmedia: {}
+  staat: Luxemburg
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Niels Flemming HANSEN
+  partei: Det Konservative Folkeparti
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Rima HASSAN
+  partei: La France Insoumise
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Patrioten für Europa
+  name: Gerald HAUSER
+  partei: Freiheitliche Partei Österreichs
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Martin HÄUSLING
+  partei: Bündnis 90/Die Grünen
+  socialmedia:
+    bluesky: https://bsky.app/profile/martinhaeusling.bsky.social
+    facebook: https://www.facebook.com/martin.haeusling/
+    instagram: https://www.instagram.com/martin_haeusling/
+    twitter: https://twitter.com/MartinHaeusling
+    web: https://www.martin-haeusling.eu/
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Mircea-Gheorghe HAVA
+  partei: Partidul Naţional Liberal
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion Renew Europe
+  name: Valérie HAYER
+  partei: Renaissance
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Anja HAZEKAMP
+  partei: Partij voor de Dieren
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Hannes HEIDE
+  partei: Sozialdemokratische Partei Österreichs
+  socialmedia: {}
+  staat: Österreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Eero HEINÄLUOMA
+  partei: "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska\n     \
+    \       Parti"
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktion Renew Europe
+  name: Anna-Maja HENRIKSSON
+  partei: Svenska folkpartiet
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Niclas HERBST
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: 
+    web: https://www.niclas-herbst.eu
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Esther HERRANZ GARCÍA
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Krzysztof HETMAN
+  partei: Polskie Stronnictwo Ludowe
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Patrioten für Europa
+  name: Martin HLAVÁČEK
+  partei: null
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Monika HOHLMEIER
+  partei: Christlich-Soziale Union in Bayern e.V.
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Renew Europe
+  name: Martin HOJSÍK
+  partei: Progresívne Slovensko
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Pär HOLMGREN
+  partei: Miljöpartiet de gröna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion Patrioten für Europa
+  name: György HÖLVÉNYI
+  partei: Kereszténydemokrata Néppárt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Alicia HOMS GINEL
+  partei: null
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Sérgio HUMBERTO
+  partei: Aliança Democrática
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion Renew Europe
+  name: Ivars IJABS
+  partei: Attīstībai/Par!
+  socialmedia: {}
+  staat: Lettland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Céline IMART
+  partei: Les Républicains
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Evin INCIR
+  partei: Arbetarepartiet- Socialdemokraterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Paolo INSELVINI
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktionslos
+  name: Diana IOVANOVICI ŞOŞOACĂ
+  partei: S.O.S. România
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Patryk JAKI
+  partei: Solidarna Polska Zbigniewa Ziobro
+  socialmedia: {}
+  staat: Polen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Hana JALLOUL MURO
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Patrioten für Europa
+  name: France JAMET
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Adam JARUBAS
+  partei: Polskie Stronnictwo Ludowe
+  socialmedia: {}
+  staat: Polen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Romana JERKOVIĆ
+  partei: Socijaldemokratska partija Hrvatske
+  socialmedia: {}
+  staat: Kroatien
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Marc JONGEN
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Dariusz JOŃSKI
+  partei: Inicjatywa Polska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Patrioten für Europa
+  name: Virginie JORON
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Patrioten für Europa
+  name: Sylvie JOSSERAND
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Pierre JOUVET
+  partei: Parti socialiste
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Renew Europe
+  name: Irena JOVEVA
+  partei: GS
+  socialmedia: {}
+  staat: Slowenien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Rasa JUKNEVIČIENĖ
+  partei: Tėvynės sąjunga-Lietuvos krikščionys demokratai
+  socialmedia: {}
+  staat: Litauen
+- fraktion: Fraktionslos
+  name: Nora JUNCO GARCÍA
+  partei: SE ACABÓ LA FIESTA
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Alexander JUNGBLUTH
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Renew Europe
+  name: Taner KABILOV
+  partei: Movement for Rights and Freedoms
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: François KALFON
+  partei: Parti socialiste
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktionslos
+  name: Erik KALIŇÁK
+  partei: SMER-Sociálna demokracia
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Marina KALJURAND
+  partei: Sotsiaaldemokraatlik Erakond
+  socialmedia: {}
+  staat: Estland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Sandra KALNIETE
+  partei: Jaunā Vienotība
+  socialmedia: {}
+  staat: Lettland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Mariusz KAMIŃSKI
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Radan KANEV
+  partei: Democrats for Strong Bulgaria
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Assita KANKO
+  partei: Nieuw-Vlaamse Alliantie
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion Renew Europe
+  name: Karin KARLSBRO
+  partei: Liberalerna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Fernand KARTHEISER
+  partei: Alternativ Demokratesch Reformpartei
+  socialmedia: {}
+  staat: Luxemburg
+- fraktion: Fraktion Renew Europe
+  name: Ľubica KARVAŠOVÁ
+  partei: Progresívne Slovensko
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: Fraktion Renew Europe
+  name: Elsi KATAINEN
+  partei: Suomen Keskusta
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Emmanouil KEFALOGIANNIS
+  partei: Nea Demokratia
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion Renew Europe
+  name: Billy KELLEHER
+  partei: Fianna Fáil Party
+  socialmedia: {}
+  staat: Irland
+- fraktion: Fraktion Renew Europe
+  name: Fabienne KELLER
+  partei: Renaissance
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Seán KELLY
+  partei: Fine Gael Party
+  socialmedia: {}
+  staat: Irland
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Rudi KENNES
+  partei: Parti du Travail de Belgique
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Mary KHAN
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Marcin KIERWIŃSKI
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Sophia KIRCHER
+  partei: Österreichische Volkspartei
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Sarah KNAFO
+  partei: Reconquête!
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Patrioten für Europa
+  name: Ondřej KNOTEK
+  partei: ANO 2011
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion Renew Europe
+  name: Michał KOBOSKO
+  partei: Polska 2050
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Stefan KÖHLER
+  partei: Christlich-Soziale Union in Bayern e.V.
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Łukasz KOHUT
+  partei: Independent
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Arba KOKALARI
+  partei: Moderaterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Ondřej KOLÁŘ
+  partei: TOP 09 a Starostové
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Kinga KOLLÁR
+  partei: Tisztelet és Szabadság Párt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Rihards KOLS
+  partei: Nacionālā apvienība "Visu Latvijai!"-"Tēvzemei un Brīvībai/LNNK"
+  socialmedia: {}
+  staat: Lettland
+- fraktion: Fraktionslos
+  name: Kateřina KONEČNÁ
+  partei: Komunistická strana Čech a Moravy
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Ewa KOPACZ
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Renew Europe
+  name: Moritz KÖRNER
+  partei: Freie Demokratische Partei
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Elena KOUNTOURA
+  partei: Coalition of the Radical Left
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion Patrioten für Europa
+  name: Ondřej KOVAŘÍK
+  partei: ANO 2011
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Andrey KOVATCHEV
+  partei: Citizens for European Development of Bulgaria
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktionslos
+  name: Maximilian KRAH
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Patrioten für Europa
+  name: Vilis KRIŠTOPANS
+  partei: Latvija pirmajā vietā
+  socialmedia: {}
+  staat: Lettland
+- fraktion: Fraktion Patrioten für Europa
+  name: Sebastian KRUIS
+  partei: Partij voor de Vrijheid
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Ondřej KRUTÍLEK
+  partei: Občanská demokratická strana
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Andrius KUBILIUS
+  partei: Tėvynės sąjunga-Lietuvos krikščionys demokratai
+  socialmedia: {}
+  staat: Litauen
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Alice KUHNKE
+  partei: Miljöpartiet de gröna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: András Tivadar KULJA
+  partei: Tisztelet és Szabadság Párt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion Renew Europe
+  name: Katri KULMUNI
+  partei: Suomen Keskusta
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Merja KYLLÖNEN
+  partei: Vasemmistoliitto
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktion Renew Europe
+  name: Ilhan KYUCHYUK
+  partei: Movement for Rights and Freedoms
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Sergey LAGODINSKY
+  partei: Bündnis 90/Die Grünen
+  socialmedia: 
+    facebook: https://de-de.facebook.com/slagodinsky/
+    instagram: https://www.instagram.com/slagodinsky/
+    mastodon: https://gruene.social/@SLagodinsky
+    twitter: https://twitter.com/SLagodinsky
+    web: https://lagodinsky.de/
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Eszter LAKOS
+  partei: Tisztelet és Szabadság Párt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Aurore LALUCQ
+  partei: Place publique
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Bernd LANGE
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Katrin LANGENSIEPEN
+  partei: Bündnis 90/Die Grünen
+  socialmedia:
+    facebook: https://www.facebook.com/KLangensiepen
+    instagram: https://www.instagram.com/katrinlangensiepen
+    twitter: https://twitter.com/k_langensiepen
+    web: https://www.katrin-langensiepen.eu/
+  staat: Deutschland
+- fraktion: Fraktionslos
+  name: Judita LAŠŠÁKOVÁ
+  partei: SMER-Sociálna demokracia
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: Fraktion Patrioten für Europa
+  name: András LÁSZLÓ
+  partei: Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion Patrioten für Europa
+  name: Afroditi LATINOPOULOU
+  partei: Phoní Loyikís
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Murielle LAURENT
+  partei: Parti socialiste
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Camilla LAURETI
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Rada LAYKOVA
+  partei: Revival
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Ilia LAZAROV
+  partei: Union of Democratic Forces
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktionslos
+  name: Luis-Vicențiu LAZARUS
+  partei: S.O.S. România
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Isabelle LE CALLENNEC
+  partei: Les Républicains
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Patrioten für Europa
+  name: Fabrice LEGGERI
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Jeroen LENAERS
+  partei: Christen Democratisch Appèl
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion Patrioten für Europa
+  name: Julien LEONARDELLI
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Janusz LEWANDOWSKI
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Miriam LEXMANN
+  partei: Kresťanskodemokratické hnutie
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Peter LIESE
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Norbert LINS
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Renew Europe
+  name: Nathalie LOISEAU
+  partei: Horizons
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Renew Europe
+  name: Morten LØKKEGAARD
+  partei: Venstre, Danmarks Liberale Parti
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Reinhold LOPATKA
+  partei: Österreichische Volkspartei
+  socialmedia: {}
+  staat: Österreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Javi LÓPEZ
+  partei: Partit dels Socialistes de Catalunya (PSC-PSOE)
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Juan Fernando LÓPEZ AGUILAR
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Antonio LÓPEZ-ISTÚRIZ WHITE
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Isabella LÖVIN
+  partei: Miljöpartiet de gröna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Mimmo LUCANO
+  partei: Alleanza Verdi e Sinistra
+  socialmedia: {}
+  staat: Italien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: César LUENA
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Elżbieta Katarzyna ŁUKACIJEWSKA
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Giuseppe LUPO
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: David MCALLISTER
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Jaak MADISON
+  partei: Independent
+  socialmedia: {}
+  staat: Estland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Cristina MAESTRE
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Lara MAGONI
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Péter MAGYAR
+  partei: Tisztelet és Szabadság Párt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Marit MAIJ
+  partei: Partij van de Arbeid
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Marlena MALĄG
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Claudiu MANDA
+  partei: Partidul Social Democrat
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Lukas MANDL
+  partei: Österreichische Volkspartei
+  socialmedia: {}
+  staat: Österreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Yannis MANIATIS
+  partei: PASOK-KINAL
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Mario MANTOVANI
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Pierfrancesco MARAN
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Jagna MARCZUŁAJTIS-WALCZAK
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Marion MARÉCHAL
+  partei: Indépendant
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Patrioten für Europa
+  name: Thierry MARIANI
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Ignazio Roberto MARINO
+  partei: Independent
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Erik MARQUARDT
+  partei: Bündnis 90/Die Grünen
+  socialmedia:
+    facebook: https://www.facebook.com/ErikMarquardtde
+    instagram: https://www.instagram.com/erikmarquardt/
+    twitter: https://twitter.com/ErikMarquardt
+    web: https://erik-marquardt.de/
+  staat: Deutschland
+- fraktion: Fraktion Patrioten für Europa
+  name: Jorge MARTÍN FRÍAS
+  partei: VOX
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Catarina MARTINS
+  partei: Bloco de Esquerda
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Fulvio MARTUSCIELLO
+  partei: Forza Italia
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Vicent MARZÀ IBÁÑEZ
+  partei: Compromís
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Predrag Fred MATIĆ
+  partei: Socijaldemokratska partija Hrvatske
+  socialmedia: {}
+  staat: Kroatien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Gabriel MATO
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Sara MATTHIEU
+  partei: Groen
+  socialmedia: {}
+  staat: Belgien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Costas MAVRIDES
+  partei: Democratic Party
+  socialmedia: {}
+  staat: Zypern
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Eva MAYDELL
+  partei: Citizens for European Development of Bulgaria
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktion Patrioten für Europa
+  name: Georg MAYER
+  partei: Freiheitliche Partei Österreichs
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktionslos
+  name: Milan MAZUREK
+  partei: Hnutie Republika
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: Fraktion Renew Europe
+  name: Michael MCNAMARA
+  partei: Independent
+  socialmedia: {}
+  staat: Irland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Nora MEBAREK
+  partei: Parti socialiste
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Alexandra MEHNERT
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Vangelis MEIMARAKIS
+  partei: Nea Demokratia
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Eleonora MELETI
+  partei: Nea Demokratia
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Ana Catarina MENDES
+  partei: Partido Socialista
+  socialmedia: {}
+  staat: Portugal
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Idoia MENDIA CUEVA
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Verena MERTENS
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Marina MESURE
+  partei: La France Insoumise
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Roberta METSOLA
+  partei: Partit Nazzjonalista
+  socialmedia: {}
+  staat: Malta
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Tilly METZ
+  partei: Déi Gréng - Les Verts
+  socialmedia: {}
+  staat: Luxemburg
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Sven MIKSER
+  partei: Sotsiaaldemokraatlik Erakond
+  socialmedia: {}
+  staat: Estland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Giuseppe MILAZZO
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Francisco José MILLÁN MON
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Renew Europe
+  name: Nikola MINCHEV
+  partei: We continue the change – Democratic Bulgaria
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Roxana MÎNZATU
+  partei: Partidul Social Democrat
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Ana MIRANDA PAZ
+  partei: Bloque Nacionalista Galego
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Csaba MOLNÁR
+  partei: Demokratikus Koalíció
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Irene MONTERO
+  partei: PODEMOS
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Dolors MONTSERRAT
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Carolina MORACE
+  partei: Movimento 5 Stelle
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Nadine MORANO
+  partei: Les Républicains
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Letizia MORATTI
+  partei: Forza Italia
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Patrioten für Europa
+  name: Tiago MOREIRA DE SÁ
+  partei: Chega
+  socialmedia: {}
+  staat: Portugal
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Javier MORENO SÁNCHEZ
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Alessandra MORETTI
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Dan-Ştefan MOTREANU
+  partei: Partidul Naţional Liberal
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Arkadiusz MULARCZYK
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Piotr MÜLLER
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Renew Europe
+  name: Ciaran MULLOOLY
+  partei: Independent
+  socialmedia: {}
+  staat: Irland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Siegfried MUREŞAN
+  partei: Partidul Naţional Liberal
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Ştefan MUŞOIU
+  partei: Partidul Social Democrat
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion Patrioten für Europa
+  name: Jana NAGYOVÁ
+  partei: ANO 2011
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Dario NARDELLA
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Fernando NAVARRETE ROJAS
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Victor NEGRESCU
+  partei: Partidul Social Democrat
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Matjaž NEMEC
+  partei: Socialni demokrati
+  socialmedia: {}
+  staat: Slowenien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Danuše NERUDOVÁ
+  partei: Starostové a nezávisli
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Denis NESCI
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Hans NEUHOFF
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Hannah NEUMANN
+  partei: Bündnis 90/Die Grünen
+  socialmedia:
+    bluesky: https://bsky.app/profile/hneumannmep.bsky.social
+    facebook: https://www.facebook.com/HNeumannMEP/
+    instagram: https://www.instagram.com/hneumannmep/
+    twitter: https://twitter.com/HNeumannMEP
+    web: https://hannahneumann.eu/
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Elena NEVADO DEL CAMPO
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Dan NICA
+  partei: null
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Angelika NIEBLER
+  partei: Christlich-Soziale Union in Bayern e.V.
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Luděk NIEDERMAYER
+  partei: TOP 09 a Starostové
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Ville NIINISTÖ
+  partei: Vihreä liitto
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktionslos
+  name: Lefteris NIKOLAOU-ALAVANOS
+  partei: Communist Party of Greece
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion Patrioten für Europa
+  name: Aleksandar NIKOLIC
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Renew Europe
+  name: Cynthia NÍ MHURCHÚ
+  partei: Fianna Fáil Party
+  socialmedia: {}
+  staat: Irland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Maria NOICHL
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Rasmus NORDQVIST
+  partei: Socialistisk Folkeparti
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Andrey NOVAKOV
+  partei: Citizens for European Development of Bulgaria
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Mirosława NYKIEL
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Daniel OBAJTEK
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Renew Europe
+  name: Ľudovít ÓDOR
+  partei: Progresívne Slovensko
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: Fraktion Renew Europe
+  name: Jan-Christoph OETJEN
+  partei: Freie Demokratische Partei
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Maria OHISALO
+  partei: Vihreä liitto
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: João OLIVEIRA
+  partei: Partido Comunista Português
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion Patrioten für Europa
+  name: Philippe OLIVIER
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Younous OMARJEE
+  partei: La France Insoumise
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktionslos
+  name: Branislav ONDRUŠ
+  partei: Hlas – sociálna demokracia
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Aodhán Ó RÍORDÁIN
+  partei: Labour Party
+  socialmedia: {}
+  staat: Irland
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Leoluca ORLANDO
+  partei: Alleanza Verdi e Sinistra
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Jacek OZDOBA
+  partei: Suwerenna Polska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Renew Europe
+  name: Urmas PAET
+  partei: Eesti Reformierakond
+  socialmedia: {}
+  staat: Estland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Leire PAJÍN
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Valentina PALMISANO
+  partei: Movimento 5 Stelle
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktionslos
+  name: Fidias PANAYIOTOU
+  partei: Independent
+  socialmedia: {}
+  staat: Zypern
+- fraktion: Fraktionslos
+  name: Kostas PAPADAKIS
+  partei: Communist Party of Greece
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Nikos PAPANDREOU
+  partei: PASOK-KINAL
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Nikos PAPPAS
+  partei: Coalition of the Radical Left
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Nicolás PASCUAL DE LA PARTE
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Patrioten für Europa
+  name: Aldo PATRICIELLO
+  partei: Lega
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Jutta PAULUS
+  partei: Bündnis 90/Die Grünen
+  socialmedia:
+    bluesky: https://bsky.app/profile/juttapaulus.bsky.social
+    facebook: https://www.facebook.com/JuttaPaulusRLP
+    instagram: https://www.instagram.com/jutta.paulus/
+    mastodon: https://mastodon.online/@JuttaPaulus
+    twitter: https://twitter.com/JuttaPaulusRLP
+    web: https://www.jutta-paulus.de/
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Ana Miguel PEDRO
+  partei: Partido do Centro Democrático Social-Partido Popular
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Gaetano PEDULLA'
+  partei: Movimento 5 Stelle
+  socialmedia: {}
+  staat: Italien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Thomas PELLERIN-CARLIN
+  partei: Place publique
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Guillaume PELTIER
+  partei: Divers droite
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Tsvetelina PENKOVA
+  partei: Bulgarian Socialist Party
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktion Patrioten für Europa
+  name: Gilles PENNELLE
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Lídia PEREIRA
+  partei: Partido Social Democrata
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktionslos
+  name: Alvise PÉREZ
+  partei: SE ACABÓ LA FIESTA
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Kira Marie PETER-HANSEN
+  partei: Socialistisk Folkeparti
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: Fraktion Renew Europe
+  name: Hristo PETROV
+  partei: We continue the change – Democratic Bulgaria
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Michele PICARO
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Pina PICIERNO
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Tonino PICULA
+  partei: Socijaldemokratska partija Hrvatske
+  socialmedia: {}
+  staat: Kroatien
+- fraktion: Fraktion Patrioten für Europa
+  name: Pascale PIERA
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Patrioten für Europa
+  name: Pierre PIMPIE
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Gheorghe PIPEREA
+  partei: Alianța pentru Unirea Românilor
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion Patrioten für Europa
+  name: Margarita DE LA PISA CARRIÓN
+  partei: VOX
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Patrioten für Europa
+  name: Jaroslava POKORNÁ JERMANOVÁ
+  partei: ANO 2011
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Daniele POLATO
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Jessica POLFJÄRD
+  partei: Moderaterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Virgil-Daniel POPESCU
+  partei: Partidul Naţional Liberal
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Reinis POZŅAKS
+  partei: "Apvienotais saraksts — Latvijas Zaļā partija, Latvijas Reģionu\n      \
+    \      Apvienība, Liepājas partija"
+  socialmedia: {}
+  staat: Lettland
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Vladimir PREBILIČ
+  partei: Vesna – zelena stranka
+  socialmedia: {}
+  staat: Slowenien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Giusi PRINCI
+  partei: Forza Italia
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Nicola PROCACCINI
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Jacek PROTAS
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktionslos
+  name: Friedrich PÜRNER
+  partei: Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Carola RACKETE
+  partei: Independent
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Emil RADEV
+  partei: Citizens for European Development of Bulgaria
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Dennis RADTKE
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Emma RAFOWICZ
+  partei: Parti socialiste
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Jüri RATAS
+  partei: Isamaa
+  socialmedia: {}
+  staat: Estland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Ruggero RAZZA
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Patrioten für Europa
+  name: Julie RECHAGNEUX
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Evelyn REGNER
+  partei: Sozialdemokratische Partei Österreichs
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Terry REINTKE
+  partei: Bündnis 90/Die Grünen
+  socialmedia: 
+    bluesky: https://bsky.app/profile/terryreintke.bsky.social
+    facebook: https://www.facebook.com/terry.reintke
+    instagram: https://www.instagram.com/terry_reintke/?hl=de
+    twitter: https://twitter.com/TerryReintke
+    web: https://terryreintke.eu/
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: René REPASI
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: 
+    mastodon: https://mastodon.online/@repasi
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Sabrina REPP
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Karlo RESSLER
+  partei: Hrvatska demokratska zajednica
+  socialmedia: {}
+  staat: Kroatien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Thijs REUTEN
+  partei: Partij van de Arbeid
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Diana RIBA I GINER
+  partei: Esquerra Republicana de Catalunya
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Matteo RICCI
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Chloé RIDEL
+  partei: Parti socialiste
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Nela RIEHL
+  partei: Volt
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Manuela RIPA
+  partei: Ökologisch-Demokratische Partei
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: André RODRIGUES
+  partei: Partido Socialista
+  socialmedia: {}
+  staat: Portugal
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Marcos ROS SEMPERE
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktionslos
+  name: Katarína ROTH NEVEĎALOVÁ
+  partei: SMER-Sociálna demokracia
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: Fraktion Patrioten für Europa
+  name: André ROUGÉ
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Bert-Jan RUISSEN
+  partei: Staatkundig Gereformeerde Partij
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Sandro RUOTOLO
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Bogdan RZOŃCA
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Arash SAEIDI
+  partei: La France Insoumise
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Massimiliano SALINI
+  partei: Forza Italia
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Ilaria SALIS
+  partei: Alleanza Verdi e Sinistra
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Aura SALLA
+  partei: Kansallinen Kokoomus
+  socialmedia: {}
+  staat: Finnland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Nacho SÁNCHEZ AMOR
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Patrioten für Europa
+  name: Julien SANCHEZ
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Elena SANCHO MURILLO
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Jussi SARAMO
+  partei: Vasemmistoliitto
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktion Patrioten für Europa
+  name: Silvia SARDONE
+  partei: Lega
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Renew Europe
+  name: Marjan ŠAREC
+  partei: GS
+  socialmedia: {}
+  staat: Slowenien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Eric SARGIACOMO
+  partei: Parti socialiste
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Mounir SATOURI
+  partei: Les Écologistes – Europe Écologie Les Verts
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Paulius SAUDARGAS
+  partei: Tėvynės sąjunga-Lietuvos krikščionys demokratai
+  socialmedia: {}
+  staat: Litauen
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Majdouline SBAI
+  partei: Les Écologistes – Europe Écologie Les Verts
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Antonella SBERNA
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Christel SCHALDEMOSE
+  partei: Socialdemokratiet
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: Fraktion Patrioten für Europa
+  name: Ernő SCHALLER-BAROSS
+  partei: Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Oliver SCHENK
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Joanna SCHEURING-WIELGUS
+  partei: Nowa Lewica
+  socialmedia: {}
+  staat: Polen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Andreas SCHIEDER
+  partei: Sozialdemokratische Partei Österreichs
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Lena SCHILLING
+  partei: Die Grünen - Die Grüne Alternative
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Martin SCHIRDEWAN
+  partei: DIE LINKE.
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Christine SCHNEIDER
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Andreas SCHWAB
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Benedetta SCUDERI
+  partei: Alleanza Verdi e Sinistra
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Ralf SEEKATZ
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Alexander SELL
+  partei: Alternative für Deutschland
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Rosa María SERRANO SIERRA
+  partei: Partido Socialista Obrero Español
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Isabel SERRA SÁNCHEZ
+  partei: PODEMOS
+  socialmedia: {}
+  staat: Spanien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Günther SIDL
+  partei: Sozialdemokratische Partei Österreichs
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Bartłomiej SIENKIEWICZ
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktionslos
+  name: Lukas SIEPER
+  partei: Partei des Fortschritts
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Sven SIMON
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Renew Europe
+  name: Christine SINGER
+  partei: Freie Wähler
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Virginijus SINKEVIČIUS
+  partei: Demokratų sąjunga „Vardan Lietuvos“
+  socialmedia: {}
+  staat: Litauen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Birgit SIPPEL
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Jonas SJÖSTEDT
+  partei: Vänsterpartiet
+  socialmedia: {}
+  staat: Schweden
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Krzysztof ŚMISZEK
+  partei: Nowa Lewica
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Anthony SMITH
+  partei: La France Insoumise
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Sander SMIT
+  partei: BoerBurgerBeweging
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Tomislav SOKOL
+  partei: Hrvatska demokratska zajednica
+  socialmedia: {}
+  staat: Kroatien
+- fraktion: Fraktionslos
+  name: Diego SOLIER
+  partei: SE ACABÓ LA FIESTA
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Susana SOLÍS PÉREZ
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Liesbet SOMMEN
+  partei: Christen-Democratisch & Vlaams
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktionslos
+  name: Martin SONNEBORN
+  partei: Die PARTEI
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Patrioten für Europa
+  name: Malika SOREL
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Hélder SOUSA SILVA
+  partei: Partido Social Democrata
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Villy SØVNDAL
+  partei: Socialistisk Folkeparti
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Marco SQUARTA
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Mārtiņš STAĶIS
+  partei: Progresīvie
+  socialmedia: {}
+  staat: Lettland
+- fraktion: Fraktion Patrioten für Europa
+  name: Raffaele STANCANELLI
+  partei: Lega
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Nicolae ŞTEFĂNUȚĂ
+  partei: Independent
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion Patrioten für Europa
+  name: Petra STEGER
+  partei: Freiheitliche Partei Österreichs
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Davor Ivo STIER
+  partei: Hrvatska demokratska zajednica
+  socialmedia: {}
+  staat: Kroatien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Kristoffer STORM
+  partei: Danmarksdemokraterne
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: Fraktion Patrioten für Europa
+  name: Sebastiaan STÖTELER
+  partei: Partij voor de Vrijheid
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Stanislav STOYANOV
+  partei: Revival
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktion Renew Europe
+  name: Marie-Agnes STRACK-ZIMMERMANN
+  partei: Freie Demokratische Partei
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Cecilia STRADA
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Renew Europe
+  name: Joachim STREIT
+  partei: Freie Wähler
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Tineke STRIK
+  partei: GroenLinks
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Anna STROLENBERG
+  partei: Volt
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Şerban-Dimitrie STURDZA
+  partei: Alianța pentru Unirea Românilor
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion Renew Europe
+  name: Anna STÜRGKH
+  partei: NEOS – Das Neue Österreich
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Marcin SYPNIEWSKI
+  partei: Konfederacja Wolność i Niepodległość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Michał SZCZERBA
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Patrioten für Europa
+  name: Pál SZEKERES
+  partei: Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Beata SZYDŁO
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Dario TAMBURRANO
+  partei: Movimento 5 Stelle
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Patrioten für Europa
+  name: António TÂNGER CORRÊA
+  partei: Chega
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Dominik TARCZYŃSKI
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Marco TARQUINIO
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Zoltán TARR
+  partei: Tisztelet és Szabadság Párt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Claudiu-Richard TÂRZIU
+  partei: Alianța pentru Unirea Românilor
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Carla TAVARES
+  partei: Partido Socialista
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Kai TEGETHOFF
+  partei: Volt
+  socialmedia: 
+    mastodon: https://mastodon.social/@kaitegethoff
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Marta TEMIDO
+  partei: Partido Socialista
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Georgiana TEODORESCU
+  partei: Alianța pentru Unirea Românilor
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Alice TEODORESCU MÅWE
+  partei: Kristdemokraterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Cristian TERHEŞ
+  partei: PARTIDULUI NAȚIONAL CONSERVATOR ROMÂN (PNCR)
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Ingeborg TER LAAK
+  partei: Christen Democratisch Appèl
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Riho TERRAS
+  partei: Isamaa
+  socialmedia: {}
+  staat: Estland
+- fraktion: Fraktion Patrioten für Europa
+  name: Hermann TERTSCH
+  partei: VOX
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion Patrioten für Europa
+  name: Pierre-Romain THIONNET
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Beatrice TIMGREN
+  partei: Sverigedemokraterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Irene TINAGLI
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Bruno TOBBACK
+  partei: Vooruit
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Tomas TOBÉ
+  partei: Moderaterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion Patrioten für Europa
+  name: Rody TOLASSY
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Renew Europe
+  name: Eugen TOMAC
+  partei: Partidul Mișcarea Populară
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Zala TOMAŠIČ
+  partei: Slovenska demokratska stranka
+  socialmedia: {}
+  staat: Slowenien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Waldemar TOMASZEWSKI
+  partei: Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga
+  socialmedia: {}
+  staat: Litauen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Romana TOMC
+  partei: Slovenska demokratska stranka
+  socialmedia: {}
+  staat: Slowenien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Matej TONIN
+  partei: Nova Slovenija – Krščanski demokrati
+  socialmedia: {}
+  staat: Slowenien
+- fraktion: Fraktion Renew Europe
+  name: Jana TOOM
+  partei: Eesti Keskerakond
+  socialmedia: {}
+  staat: Estland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Raffaele TOPO
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Francesco TORSELLI
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Flavio TOSI
+  partei: Forza Italia
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Marie TOUSSAINT
+  partei: Europe Écologie
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Patrioten für Europa
+  name: Isabella TOVAGLIERI
+  partei: Lega
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Pekka TOVERI
+  partei: Kansallinen Kokoomus
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktion Die Linke im Europäischen Parlament - GUE/NGL
+  name: Pasquale TRIDICO
+  partei: Movimento 5 Stelle
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Laurence TROCHU
+  partei: Mouvement conservateur
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Dimitris TSIODRAS
+  partei: Nea Demokratia
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Mihai TUDOSE
+  partei: Partidul Social Democrat
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion Patrioten für Europa
+  name: Filip TUREK
+  partei: Motoristé sobě
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Sebastian TYNKKYNEN
+  partei: Perussuomalaiset
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Stanisław TYSZKA
+  partei: Konfederacja Wolność i Niepodległość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Milan UHRÍK
+  partei: Hnutie Republika
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Nils UŠAKOVS
+  partei: '"Saskaņa" sociāldemokrātiskā partija'
+  socialmedia: {}
+  staat: Lettland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Inese VAIDERE
+  partei: Jaunā Vienotība
+  socialmedia: {}
+  staat: Lettland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Ivaylo VALCHEV
+  partei: There Is Such a People
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Adina VĂLEAN
+  partei: Partidul Naţional Liberal
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion Patrioten für Europa
+  name: Matthieu VALET
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Kathleen VAN BREMPT
+  partei: Vooruit
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion Renew Europe
+  name: Anouk VAN BRUG
+  partei: Volkspartij voor Vrijheid en Democratie
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion Renew Europe
+  name: Brigitte VAN DEN BERG
+  partei: Democraten 66
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion Patrioten für Europa
+  name: Tom VANDENDRIESSCHE
+  partei: Vlaams Belang
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Kris VAN DIJCK
+  partei: Nieuw-Vlaamse Alliantie
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Reinier VAN LANSCHOT
+  partei: Volt
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Jessika VAN LEEUWEN
+  partei: BoerBurgerBeweging
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion Patrioten für Europa
+  name: Roberto VANNACCI
+  partei: Lega
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Johan VAN OVERTVELDT
+  partei: Nieuw-Vlaamse Alliantie
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Kim VAN SPARRENTAK
+  partei: GroenLinks
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion Patrioten für Europa
+  name: Alexandre VARAUT
+  partei: Rassemblement national
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Renew Europe
+  name: Ana VASCONCELOS
+  partei: Iniciativa Liberal
+  socialmedia: {}
+  staat: Portugal
+- fraktion: Fraktion Renew Europe
+  name: Vlad VASILE-VOICULESCU
+  partei: Alianța Dreapta Unită
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion Renew Europe
+  name: Hilde VAUTMANS
+  partei: Open Vlaamse Liberalen en Democraten
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion Renew Europe
+  name: Marie-Pierre VEDRENNE
+  partei: Mouvement Démocrate
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Francesco VENTOLA
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Sabine VERHEYEN
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion Renew Europe
+  name: Yvan VEROUGSTRAETE
+  partei: Les Engagés
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Aurelijus VERYGA
+  partei: Lietuvos valstiečių ir žaliųjų sąjunga
+  socialmedia: {}
+  staat: Litauen
+- fraktion: Fraktion Patrioten für Europa
+  name: Annamária VICSEK
+  partei: Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
+  socialmedia: {}
+  staat: Ungarn
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Catarina VIEIRA
+  partei: GroenLinks
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Kristian VIGENIN
+  partei: Bulgarian Socialist Party
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktion Patrioten für Europa
+  name: Harald VILIMSKY
+  partei: Freiheitliche Partei Österreichs
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Loránt VINCZE
+  partei: Uniunea Democrată Maghiară din România
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Marianne VIND
+  partei: Socialdemokratiet
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Henna VIRKKUNEN
+  partei: Kansallinen Kokoomus
+  socialmedia: {}
+  staat: Finnland
+- fraktion: Fraktion Patrioten für Europa
+  name: Anders VISTISEN
+  partei: Dansk Folkeparti
+  socialmedia: {}
+  staat: Dänemark
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Mariateresa VIVALDINI
+  partei: FRATELLI D' ITALIA
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Petar VOLGIN
+  partei: Revival
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktionslos
+  name: Michael VON DER SCHULENBURG
+  partei: Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Alexandr VONDRA
+  partei: Občanská demokratická strana
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Axel VOSS
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Elissavet VOZEMBERG-VRIONIDI
+  partei: Nea Demokratia
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Veronika VRECIONOVÁ
+  partei: Občanská demokratická strana
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Adrián VÁZQUEZ LÁZARA
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Grünen / Freie Europäische Allianz
+  name: Thomas WAITZ
+  partei: Die Grünen - Die Grüne Alternative
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Maria WALSH
+  partei: Fine Gael Party
+  socialmedia: {}
+  staat: Irland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Marion WALSMANN
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Jörgen WARBORN
+  partei: Moderaterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktionslos
+  name: Jan-Peter WARNKE
+  partei: Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Maciej WĄSIK
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Michał WAWRYKIEWICZ
+  partei: Independent
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Marta WCISŁO
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Manfred WEBER
+  partei: Christlich-Soziale Union in Bayern e.V.
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Andrea WECHSLER
+  partei: Christlich Demokratische Union Deutschlands
+  socialmedia: {}
+  staat: Deutschland
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Charlie WEIMERS
+  partei: Sverigedemokraterna
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion Renew Europe
+  name: Emma WIESNER
+  partei: Centerpartiet
+  socialmedia: {}
+  staat: Schweden
+- fraktion: Fraktion Renew Europe
+  name: Michal WIEZIK
+  partei: Progresívne Slovensko
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: Fraktion Renew Europe
+  name: Sophie WILMÈS
+  partei: Mouvement Réformateur
+  socialmedia: {}
+  staat: Belgien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Iuliu WINKLER
+  partei: Uniunea Democrată Maghiară din România
+  socialmedia: {}
+  staat: Rumänien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Angelika WINZIG
+  partei: Österreichische Volkspartei
+  socialmedia: {}
+  staat: Österreich
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Isabel WISELER-LIMA
+  partei: Parti chrétien social luxembourgeois
+  socialmedia: {}
+  staat: Luxemburg
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Jadwiga WIŚNIEWSKA
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Tiemo WÖLKEN
+  partei: Sozialdemokratische Partei Deutschlands
+  socialmedia: 
+    mastodon: https://d-64.social/@woelken
+  staat: Deutschland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Lara WOLTERS
+  partei: Partij van de Arbeid
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion Renew Europe
+  name: Lucia YAR
+  partei: Progresívne Slovensko
+  socialmedia: {}
+  staat: Slowakei
+- fraktion: Fraktion Renew Europe
+  name: Stéphanie YON-COURTIN
+  partei: Renaissance
+  socialmedia: {}
+  staat: Frankreich
+- fraktion: Fraktion Renew Europe
+  name: Elena YONCHEVA
+  partei: Movement for Rights and Freedoms
+  socialmedia: {}
+  staat: Bulgarien
+- fraktion: Fraktionslos
+  name: Maria ZACHARIA
+  partei: Plefsi Eleftherias
+  socialmedia: {}
+  staat: Griechenland
+- fraktion: Fraktion Europa der Souveränen Nationen
+  name: Ewa ZAJĄCZKOWSKA-HERNIK
+  partei: Konfederacja Wolność i Niepodległość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Anna ZALEWSKA
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Renew Europe
+  name: Dainius ŽALIMAS
+  partei: Laisvės partija
+  socialmedia: {}
+  staat: Litauen
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Alessandro ZAN
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Javier ZARZALEJOS
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Tomáš ZDECHOVSKÝ
+  partei: Křesťanská a demokratická unie - Československá strana lidová
+  socialmedia: {}
+  staat: Tschechien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Bogdan Andrzej ZDROJEWSKI
+  partei: Platforma Obywatelska
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion Patrioten für Europa
+  name: Auke ZIJLSTRA
+  partei: Partij voor de Vrijheid
+  socialmedia: {}
+  staat: Niederlande
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Roberts ZĪLE
+  partei: Nacionālā apvienība "Visu Latvijai!"-"Tēvzemei un Brīvībai/LNNK"
+  socialmedia: {}
+  staat: Lettland
+- fraktion: "Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen\n\
+    \            Parlament"
+  name: Nicola ZINGARETTI
+  partei: Partito Democratico
+  socialmedia: {}
+  staat: Italien
+- fraktion: Fraktion der Europäischen Konservativen und Reformer
+  name: Kosma ZŁOTOWSKI
+  partei: Prawo i Sprawiedliwość
+  socialmedia: {}
+  staat: Polen
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Juan Ignacio ZOIDO ÁLVAREZ
+  partei: Partido Popular
+  socialmedia: {}
+  staat: Spanien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Željana ZOVKO
+  partei: Hrvatska demokratska zajednica
+  socialmedia: {}
+  staat: Kroatien
+- fraktion: Fraktion der Europäischen Volkspartei (Christdemokraten)
+  name: Milan ZVER
+  partei: Slovenska demokratska stranka
+  socialmedia: {}
+  staat: Slowenien
+socialmedia:
   facebook: https://www.facebook.com/europeanparliament
-  twitter: https://twitter.com/Europarl_de
   flickr: https://www.flickr.com/photos/european_parliament/
-  linkedin: https://www.linkedin.com/company/european-parliament
-  youtube: https://www.youtube.com/user/EuropeanParliament
   instagram: https://instagram.com/europeanparliament
+  linkedin: https://www.linkedin.com/company/european-parliament
   pinterest: https://www.pinterest.com/epinfographics/
-  snapchat: https://www.snapchat.com/add/europarl
   reddit: https://www.reddit.com/r/europeanparliament/
+  snapchat: https://www.snapchat.com/add/europarl
+  twitter: https://twitter.com/Europarl_de
+  web: https://www.europarl.europa.eu/portal/de
+  youtube: https://www.youtube.com/user/EuropeanParliament
